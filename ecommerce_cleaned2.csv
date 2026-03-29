@@ -1,0 +1,501 @@
+order_id,customer_id,customer_name,gender,order_date,product,category,quantity,unit_price,status,payment_method,region,total_price
+ORD-1275,CUST-133,U Kyaw,Male,3/1/2023,Keyboard,Accessories,2,85.03,Completed,Paypal,North,170.06
+ORD-1093,CUST-255,Daw Mya,Female,12/13/2023,Headphones,Audio,5,147.87,Completed,Credit Card,East,739.35
+ORD-1006,CUST-157,Daw Su,Female,7/14/2023,Webcam,Accessories,2,88.85,Completed,Credit Card,West,177.7
+ORD-1167,CUST-129,Ko Aung,Male,10/21/2023,Mouse,Accessories,2,43.3,Pending,Cash,East,86.6
+ORD-1090,CUST-274,Ma Nwe,Female,3/6/2023,Mouse,Accessories,3,48.79,Pending,Credit Card,East,146.37
+ORD-1066,CUST-247,Ma Aye,Female,2/13/2023,Headphones,Audio,1,145.77,Completed,Paypal,East,145.77
+ORD-1362,CUST-112,Ma Thin,Female,7/27/2023,Mouse,Accessories,3,41.27,Completed,Paypal,North,123.81
+ORD-1228,CUST-167,Ko Aung,Male,8/14/2023,Phone,Electronics,1,692.02,Returned,Cash,West,692.02
+ORD-1192,CUST-229,Daw Mya,Female,8/8/2023,Monitor,Electronics,3,400.47,Completed,Cash,West,1201.41
+ORD-1482,CUST-239,Daw Khin,Female,5/25/2023,Mouse,Accessories,1,54.44,Pending,Credit Card,West,54.44
+ORD-1218,CUST-117,Ko Aung,Male,8/5/2023,Headphones,Audio,5,148.435,Pending,Paypal,South,742.175
+ORD-1180,CUST-100,Ma Aye,Female,7/12/2023,Phone,Electronics,4,700.99,Completed,Debit Card,South,2803.96
+ORD-1307,CUST-237,Ko Zaw,Male,1/27/2023,Keyboard,Accessories,2,73.81,Completed,Credit Card,East,147.62
+ORD-1249,CUST-157,Daw Mya,Female,11/23/2023,Mouse,Accessories,5,55.58,Completed,Cash,South,277.9
+ORD-1010,CUST-273,Unknown,Unknown,6/7/2023,Webcam,Accessories,2,93.45,Pending,Paypal,East,186.9
+ORD-1381,CUST-248,U Win,Male,7/15/2023,Mouse,Accessories,4,46.38,Pending,Paypal,West,185.52
+ORD-1371,CUST-147,Unknown,Unknown,2/13/2023,USB Hub,Accessories,5,42.64,Pending,Debit Card,West,213.2
+ORD-1030,CUST-207,Daw Su,Female,5/7/2023,Phone,Electronics,1,695.67,Pending,Paypal,East,695.67
+ORD-1494,CUST-191,Daw Khin,Female,7/23/2023,Monitor,Electronics,3,408.09,Cancelled,Credit Card,South,1224.27
+ORD-1137,CUST-249,Ko Aung,Male,8/1/2023,Monitor,Electronics,2,393.57,Returned,Credit Card,West,787.14
+ORD-1155,CUST-252,Daw Khin,Female,2/14/2023,Webcam,Accessories,5,94.25,Pending,Paypal,East,471.25
+ORD-1084,CUST-194,Daw Khin,Female,3/14/2023,Headphones,Audio,2,140.94,Pending,Cash,South,281.88
+ORD-1117,CUST-116,Ma Nwe,Female,6/2/2023,Headphones,Audio,5,149.52,Pending,Paypal,North,747.6
+ORD-1172,CUST-296,Daw Mya,Female,5/22/2023,Monitor,Electronics,3,401.36,Returned,Paypal,West,1204.08
+ORD-1323,CUST-123,Ma Nwe,Female,12/22/2023,Laptop,Electronics,3,1005.23,Completed,Cash,West,3015.69
+ORD-1331,CUST-202,Daw Khin,Female,2/17/2023,USB Hub,Accessories,3,36.14,Pending,Paypal,East,108.42
+ORD-1079,CUST-171,U Kyaw,Male,12/14/2023,USB Hub,Accessories,1,33.43,Pending,Cash,East,33.43
+ORD-1452,CUST-275,Ko Htet,Male,2/15/2023,Headphones,Audio,5,148.14,Cancelled,Credit Card,East,740.7
+ORD-1310,CUST-208,Ma Nwe,Female,8/27/2023,Mouse,Accessories,3,49.52,Completed,Paypal,North,148.56
+ORD-1253,CUST-250,U Kyaw,Male,10/19/2023,Mouse,Accessories,3,42.61,Completed,Paypal,North,127.83
+ORD-1340,CUST-216,U Win,Male,5/2/2023,Webcam,Accessories,3,91.05,Completed,Cash,North,273.15
+ORD-1333,CUST-142,U Kyaw,Male,9/24/2023,Monitor,Electronics,4,391.49,Returned,Credit Card,North,1565.96
+ORD-1009,CUST-126,U Kyaw,Male,2/24/2023,Monitor,Electronics,5,399.52,Completed,Paypal,South,1997.6
+ORD-1278,CUST-247,U Kyaw,Male,3/31/2023,Webcam,Accessories,4,81.05,Completed,Debit Card,North,324.2
+ORD-1068,CUST-280,Ma Nwe,Female,1/7/2023,Webcam,Accessories,3,98.33,Pending,Debit Card,South,294.99
+ORD-1417,CUST-167,U Win,Male,9/10/2023,Headphones,Audio,5,151.13,Completed,Paypal,North,755.65
+ORD-1203,CUST-253,Daw Mya,Female,12/19/2023,Phone,Electronics,4,699.2,Completed,Paypal,West,2796.8
+ORD-1393,CUST-152,Ko Zaw,Male,10/6/2023,Mouse,Accessories,5,40.11,Completed,Cash,South,200.55
+ORD-1305,CUST-149,Ma Nwe,Female,2/9/2023,Phone,Electronics,5,693.84,Pending,Paypal,South,3469.2
+ORD-1299,CUST-115,U Kyaw,Male,8/30/2023,Mouse,Accessories,4,44.76,Completed,Paypal,West,179.04
+ORD-1347,CUST-269,Unknown,Unknown,2/24/2023,Phone,Electronics,3,696.05,Completed,Cash,West,2088.15
+ORD-1055,CUST-286,Ma Nwe,Female,7/29/2023,Webcam,Accessories,2,91.56,Cancelled,Cash,East,183.12
+ORD-1189,CUST-260,Ko Zaw,Male,12/24/2023,Keyboard,Accessories,1,69.85,Completed,Paypal,South,69.85
+ORD-1146,CUST-123,Daw Mya,Female,5/18/2023,Phone,Electronics,2,700.23,Completed,Paypal,North,1400.46
+ORD-1158,CUST-197,U Kyaw,Male,10/29/2023,USB Hub,Accessories,5,41.27,Completed,Debit Card,South,206.35
+ORD-1222,CUST-132,Ma Thin,Female,7/8/2023,Phone,Electronics,1,706.11,Pending,Credit Card,North,706.11
+ORD-1255,CUST-158,Ko Zaw,Male,8/30/2023,Keyboard,Accessories,5,73.53,Completed,Credit Card,East,367.65
+ORD-1153,CUST-274,Ko Zaw,Male,1/17/2023,Keyboard,Accessories,4,73.48,Pending,Credit Card,South,293.92
+ORD-1176,CUST-175,Ko Aung,Male,5/7/2023,Headphones,Audio,1,141.28,Pending,Credit Card,East,141.28
+ORD-1210,CUST-161,Daw Mya,Female,12/25/2023,Keyboard,Accessories,4,78.88,Completed,Debit Card,East,315.52
+ORD-1289,CUST-190,Ko Aung,Male,10/23/2023,Keyboard,Accessories,2,79.51,Completed,Paypal,South,159.02
+ORD-1076,CUST-159,Ko Htet,Male,10/13/2023,Keyboard,Accessories,3,71.17,Completed,Debit Card,South,213.51
+ORD-1447,CUST-254,Daw Su,Female,10/11/2023,USB Hub,Accessories,1,35.78,Pending,Cash,South,35.78
+ORD-1349,CUST-224,Ma Nwe,Female,3/3/2023,Phone,Electronics,5,695.67,Completed,Paypal,South,3478.35
+ORD-1148,CUST-112,Ko Htet,Male,1/22/2023,Webcam,Accessories,4,92.31,Pending,Debit Card,East,369.24
+ORD-1446,CUST-172,U Win,Male,11/5/2023,Monitor,Electronics,5,396.88,Completed,Paypal,East,1984.4
+ORD-1073,CUST-297,Ko Zaw,Male,9/8/2023,Laptop,Electronics,4,1000.735,Completed,Credit Card,West,4002.94
+ORD-1002,CUST-106,Ma Nwe,Female,7/14/2023,Headphones,Audio,2,153.1,Completed,Credit Card,South,306.2
+ORD-1077,CUST-125,U Win,Male,10/22/2023,Webcam,Accessories,1,79.5,Completed,Paypal,South,79.5
+ORD-1400,CUST-133,Ko Aung,Male,4/23/2023,USB Hub,Accessories,4,35.06,Completed,Paypal,East,140.24
+ORD-1434,CUST-241,Daw Su,Female,8/12/2023,USB Hub,Accessories,4,30.01,Completed,Debit Card,South,120.04
+ORD-1487,CUST-137,Daw Mya,Female,2/14/2023,Mouse,Accessories,3,44.95,Returned,Credit Card,South,134.85
+ORD-1297,CUST-265,Daw Su,Female,2/1/2023,USB Hub,Accessories,1,39.98,Pending,Paypal,East,39.98
+ORD-1063,CUST-260,U Kyaw,Male,1/19/2023,Monitor,Electronics,4,405.61,Completed,Credit Card,North,1622.44
+ORD-1483,CUST-109,Ko Htet,Male,2/19/2023,Webcam,Accessories,1,88.85,Pending,Credit Card,South,88.85
+ORD-1281,CUST-300,Ko Htet,Male,6/27/2023,USB Hub,Accessories,4,47.11,Pending,Paypal,East,188.44
+ORD-1070,CUST-111,Ko Aung,Male,11/27/2023,Headphones,Audio,2,158.35,Completed,Debit Card,South,316.7
+ORD-1173,CUST-264,Daw Su,Female,3/6/2023,Webcam,Accessories,1,84.44,Pending,Cash,North,84.44
+ORD-1033,CUST-250,Ko Aung,Male,3/11/2023,Webcam,Accessories,5,81.86,Returned,Credit Card,West,409.3
+ORD-1072,CUST-158,Unknown,Unknown,6/19/2023,Webcam,Accessories,5,88.85,Completed,Credit Card,North,444.25
+ORD-1078,CUST-197,Daw Su,Female,7/11/2023,Monitor,Electronics,4,400.23,Completed,Paypal,North,1600.92
+ORD-1000,CUST-263,Ma Nwe,Female,7/12/2023,Monitor,Electronics,5,393.67,Pending,Paypal,West,1968.35
+ORD-1011,CUST-289,Daw Su,Female,5/19/2023,Keyboard,Accessories,2,82.1,Pending,Paypal,West,164.2
+ORD-1338,CUST-300,Ko Aung,Male,10/18/2023,Phone,Electronics,2,699.39,Returned,Paypal,West,1398.78
+ORD-1022,CUST-254,Ma Aye,Female,5/5/2023,Mouse,Accessories,4,47.68,Completed,Paypal,South,190.72
+ORD-1478,CUST-128,Ko Zaw,Male,2/21/2023,Webcam,Accessories,2,85.5,Pending,Debit Card,North,171
+ORD-1490,CUST-110,U Moe,Male,1/14/2023,Headphones,Audio,5,157.67,Cancelled,Paypal,South,788.35
+ORD-1104,CUST-276,U Win,Male,4/20/2023,Webcam,Accessories,4,94.3,Completed,Paypal,West,377.2
+ORD-1082,CUST-193,Ko Htet,Male,6/1/2023,Keyboard,Accessories,4,71.8,Pending,Debit Card,North,287.2
+ORD-1185,CUST-295,U Moe,Male,9/7/2023,Laptop,Electronics,4,992.51,Completed,Credit Card,West,3970.04
+ORD-1140,CUST-202,Ma Aye,Female,4/23/2023,Headphones,Audio,2,152.3,Pending,Debit Card,South,304.6
+ORD-1018,CUST-123,Ko Aung,Male,7/17/2023,Keyboard,Accessories,2,86.45,Completed,Paypal,West,172.9
+ORD-1356,CUST-288,Unknown,Unknown,6/17/2023,Webcam,Accessories,2,86.66,Completed,Paypal,West,173.32
+ORD-1132,CUST-290,Ko Aung,Male,7/3/2023,USB Hub,Accessories,5,38.07,Completed,Paypal,West,190.35
+ORD-1124,CUST-227,Daw Mya,Female,10/22/2023,USB Hub,Accessories,2,30.22,Completed,Credit Card,West,60.44
+ORD-1101,CUST-197,Ma Aye,Female,11/11/2023,Keyboard,Accessories,4,69.43,Cancelled,Paypal,West,277.72
+ORD-1039,CUST-208,Ko Htet,Male,3/11/2023,Mouse,Accessories,4,51.78,Pending,Paypal,West,207.12
+ORD-1470,CUST-141,Unknown,Unknown,3/29/2023,Mouse,Accessories,2,39.63,Completed,Debit Card,West,79.26
+ORD-1046,CUST-126,Ko Htet,Male,6/16/2023,Phone,Electronics,5,694.49,Completed,Credit Card,West,3472.45
+ORD-1314,CUST-163,Daw Mya,Female,10/16/2023,Mouse,Accessories,2,44.07,Completed,Credit Card,West,88.14
+ORD-1448,CUST-153,Ko Htet,Male,10/17/2023,USB Hub,Accessories,5,44.1,Completed,Paypal,South,220.5
+ORD-1365,CUST-228,Daw Su,Female,2/22/2023,Keyboard,Accessories,4,74.21,Completed,Paypal,East,296.84
+ORD-1177,CUST-211,Daw Khin,Female,12/13/2023,Laptop,Electronics,4,994.66,Pending,Debit Card,East,3978.64
+ORD-1286,CUST-124,Ma Thin,Female,1/16/2023,Mouse,Accessories,4,49.54,Pending,Paypal,East,198.16
+ORD-1346,CUST-242,Ma Aye,Female,10/27/2023,Mouse,Accessories,1,49.54,Completed,Credit Card,East,49.54
+ORD-1131,CUST-163,Daw Su,Female,8/19/2023,Mouse,Accessories,1,58.89,Pending,Paypal,North,58.89
+ORD-1433,CUST-270,U Kyaw,Male,3/22/2023,Laptop,Electronics,1,993.3,Pending,Paypal,North,993.3
+ORD-1456,CUST-225,Unknown,Unknown,12/21/2023,Phone,Electronics,1,694.98,Pending,Paypal,East,694.98
+ORD-1069,CUST-117,Daw Su,Female,10/11/2023,Webcam,Accessories,5,93.48,Cancelled,Cash,West,467.4
+ORD-1357,CUST-238,Ko Aung,Male,12/31/2023,Mouse,Accessories,4,51.1,Cancelled,Paypal,West,204.4
+ORD-1423,CUST-172,Ma Nwe,Female,4/14/2023,Webcam,Accessories,1,83.96,Pending,Paypal,West,83.96
+ORD-1334,CUST-197,Unknown,Unknown,7/10/2023,Headphones,Audio,4,156.79,Returned,Cash,East,627.16
+ORD-1227,CUST-142,Ko Zaw,Male,11/9/2023,Keyboard,Accessories,5,75.43,Completed,Paypal,North,377.15
+ORD-1436,CUST-269,Ma Aye,Female,3/31/2023,Monitor,Electronics,4,398.41,Pending,Debit Card,South,1593.64
+ORD-1208,CUST-192,Unknown,Unknown,11/29/2023,Laptop,Electronics,2,1004.2,Returned,Cash,West,2008.4
+ORD-1332,CUST-115,Unknown,Unknown,4/29/2023,USB Hub,Accessories,5,46.32,Cancelled,Paypal,South,231.6
+ORD-1220,CUST-236,U Moe,Male,7/16/2023,Headphones,Audio,2,140.14,Completed,Credit Card,North,280.28
+ORD-1047,CUST-123,Daw Su,Female,7/21/2023,Webcam,Accessories,5,88.85,Completed,Paypal,North,444.25
+ORD-1324,CUST-292,Daw Khin,Female,6/21/2023,Mouse,Accessories,3,54.52,Pending,Paypal,North,163.56
+ORD-1184,CUST-228,U Moe,Male,7/8/2023,Headphones,Audio,3,139.15,Cancelled,Credit Card,East,417.45
+ORD-1497,CUST-163,Ma Nwe,Female,4/5/2023,Monitor,Electronics,2,397.85,Returned,Cash,North,795.7
+ORD-1355,CUST-248,U Win,Male,1/21/2023,Mouse,Accessories,3,54.57,Pending,Credit Card,East,163.71
+ORD-1320,CUST-266,Daw Khin,Female,6/5/2023,Headphones,Audio,4,155.27,Completed,Paypal,North,621.08
+ORD-1195,CUST-139,Daw Su,Female,10/23/2023,Webcam,Accessories,5,95.03,Completed,Paypal,West,475.15
+ORD-1335,CUST-100,Unknown,Unknown,2/13/2023,Laptop,Electronics,1,1006.89,Returned,Credit Card,North,1006.89
+ORD-1492,CUST-193,Daw Khin,Female,2/11/2023,USB Hub,Accessories,3,42.53,Completed,Paypal,East,127.59
+ORD-1450,CUST-187,U Kyaw,Male,9/2/2023,Keyboard,Accessories,2,69.91,Returned,Cash,East,139.82
+ORD-1031,CUST-156,U Moe,Male,9/11/2023,Mouse,Accessories,5,56.42,Pending,Credit Card,West,282.1
+ORD-1086,CUST-153,U Moe,Male,4/16/2023,Mouse,Accessories,3,52.41,Completed,Credit Card,East,157.23
+ORD-1431,CUST-235,U Moe,Male,2/21/2023,Mouse,Accessories,1,39.46,Pending,Credit Card,North,39.46
+ORD-1075,CUST-120,U Win,Male,9/19/2023,Mouse,Accessories,5,55.45,Completed,Paypal,South,277.25
+ORD-1457,CUST-164,Ma Nwe,Female,5/12/2023,Laptop,Electronics,3,1005.57,Completed,Paypal,West,3016.71
+ORD-1015,CUST-208,Ma Nwe,Female,1/14/2023,Webcam,Accessories,3,96.05,Completed,Paypal,South,288.15
+ORD-1421,CUST-162,U Kyaw,Male,9/27/2023,USB Hub,Accessories,3,40.23,Completed,Paypal,South,120.69
+ORD-1182,CUST-284,U Moe,Male,2/17/2023,Headphones,Audio,2,143.22,Completed,Paypal,West,286.44
+ORD-1473,CUST-241,Ma Aye,Female,2/17/2023,USB Hub,Accessories,5,32.03,Completed,Cash,North,160.15
+ORD-1019,CUST-155,Daw Su,Female,7/31/2023,Keyboard,Accessories,1,79.51,Returned,Paypal,North,79.51
+ORD-1397,CUST-161,U Win,Male,10/17/2023,Mouse,Accessories,1,56.9,Pending,Paypal,East,56.9
+ORD-1056,CUST-217,Ma Nwe,Female,3/13/2023,Phone,Electronics,5,701.93,Completed,Paypal,North,3509.65
+ORD-1304,CUST-163,Ko Aung,Male,6/13/2023,Monitor,Electronics,2,400.355,Completed,Cash,North,800.71
+ORD-1342,CUST-208,Daw Su,Female,7/21/2023,Phone,Electronics,1,690.6,Completed,Debit Card,East,690.6
+ORD-1440,CUST-129,Daw Khin,Female,3/31/2023,Webcam,Accessories,1,87.01,Completed,Debit Card,West,87.01
+ORD-1404,CUST-217,Daw Khin,Female,3/23/2023,Webcam,Accessories,3,91.1,Completed,Paypal,South,273.3
+ORD-1025,CUST-150,Ma Thin,Female,6/4/2023,Laptop,Electronics,2,1007.07,Cancelled,Credit Card,West,2014.14
+ORD-1261,CUST-261,Daw Mya,Female,11/18/2023,Webcam,Accessories,1,86.53,Pending,Debit Card,West,86.53
+ORD-1042,CUST-139,Unknown,Unknown,4/1/2023,Webcam,Accessories,3,88.66,Pending,Paypal,East,265.98
+ORD-1271,CUST-271,Daw Su,Female,2/3/2023,Monitor,Electronics,2,407.94,Pending,Cash,North,815.88
+ORD-1209,CUST-178,Ko Aung,Male,7/22/2023,Headphones,Audio,2,142.54,Pending,Debit Card,West,285.08
+ORD-1287,CUST-268,U Kyaw,Male,8/8/2023,Keyboard,Accessories,2,73.72,Pending,Paypal,North,147.44
+ORD-1126,CUST-264,Ma Thin,Female,10/3/2023,Mouse,Accessories,1,48.81,Returned,Cash,West,48.81
+ORD-1414,CUST-237,Ko Htet,Male,12/25/2023,USB Hub,Accessories,2,34.95,Cancelled,Paypal,North,69.9
+ORD-1113,CUST-108,Ko Aung,Male,10/28/2023,Laptop,Electronics,2,1000.735,Pending,Credit Card,South,2001.47
+ORD-1360,CUST-180,U Win,Male,5/14/2023,Keyboard,Accessories,4,79.59,Cancelled,Paypal,West,318.36
+ORD-1290,CUST-208,Unknown,Unknown,9/12/2023,Mouse,Accessories,3,55.78,Completed,Paypal,West,167.34
+ORD-1154,CUST-208,Ko Htet,Male,6/28/2023,Webcam,Accessories,2,95.91,Returned,Paypal,South,191.82
+ORD-1057,CUST-237,Ko Htet,Male,5/4/2023,Monitor,Electronics,4,397.82,Pending,Credit Card,East,1591.28
+ORD-1211,CUST-114,Ko Htet,Male,8/8/2023,Headphones,Audio,3,154.2,Completed,Paypal,North,462.6
+ORD-1024,CUST-243,Ma Thin,Female,3/28/2023,Keyboard,Accessories,4,77.87,Pending,Paypal,East,311.48
+ORD-1017,CUST-107,Ko Zaw,Male,11/3/2023,USB Hub,Accessories,1,43.37,Cancelled,Paypal,North,43.37
+ORD-1245,CUST-232,U Moe,Male,7/20/2023,USB Hub,Accessories,3,36.84,Pending,Debit Card,East,110.52
+ORD-1229,CUST-235,U Moe,Male,4/20/2023,Keyboard,Accessories,2,71.07,Completed,Credit Card,North,142.14
+ORD-1225,CUST-221,Daw Mya,Female,12/13/2023,Webcam,Accessories,1,96.92,Returned,Paypal,East,96.92
+ORD-1094,CUST-262,Daw Mya,Female,5/5/2023,Laptop,Electronics,5,1006.11,Pending,Paypal,North,5030.55
+ORD-1462,CUST-170,U Kyaw,Male,6/29/2023,Webcam,Accessories,3,93.51,Cancelled,Paypal,East,280.53
+ORD-1284,CUST-148,Ma Aye,Female,5/18/2023,Laptop,Electronics,5,995.99,Completed,Paypal,West,4979.95
+ORD-1023,CUST-106,Ko Aung,Male,3/28/2023,Keyboard,Accessories,4,81.67,Pending,Credit Card,South,326.68
+ORD-1244,CUST-212,Unknown,Unknown,9/18/2023,Monitor,Electronics,5,408.35,Pending,Paypal,East,2041.75
+ORD-1422,CUST-194,Daw Khin,Female,6/19/2023,Monitor,Electronics,4,400.355,Pending,Paypal,North,1601.42
+ORD-1375,CUST-272,Daw Khin,Female,11/27/2023,Keyboard,Accessories,1,83.24,Pending,Cash,South,83.24
+ORD-1005,CUST-162,Ma Aye,Female,2/12/2023,Headphones,Audio,5,148.91,Pending,Paypal,North,744.55
+ORD-1116,CUST-168,Ma Thin,Female,12/11/2023,USB Hub,Accessories,4,38.98,Completed,Cash,North,155.92
+ORD-1045,CUST-186,Ma Thin,Female,10/22/2023,Webcam,Accessories,3,98.56,Completed,Paypal,South,295.68
+ORD-1407,CUST-118,Unknown,Unknown,1/29/2023,Laptop,Electronics,1,1000.735,Completed,Credit Card,East,1000.735
+ORD-1016,CUST-108,U Moe,Male,11/10/2023,Laptop,Electronics,4,996.6,Completed,Paypal,West,3986.4
+ORD-1484,CUST-194,Ko Aung,Male,10/20/2023,Monitor,Electronics,4,401.2,Completed,Credit Card,North,1604.8
+ORD-1370,CUST-120,U Moe,Male,11/19/2023,Webcam,Accessories,2,87.9,Returned,Paypal,North,175.8
+ORD-1003,CUST-289,Daw Mya,Female,11/13/2023,Keyboard,Accessories,1,76.72,Completed,Credit Card,West,76.72
+ORD-1274,CUST-238,U Win,Male,2/14/2023,Laptop,Electronics,2,1008.33,Pending,Credit Card,North,2016.66
+ORD-1426,CUST-239,Daw Khin,Female,3/17/2023,Phone,Electronics,4,695.67,Cancelled,Paypal,West,2782.68
+ORD-1060,CUST-120,U Win,Male,11/3/2023,Mouse,Accessories,1,42.51,Pending,Debit Card,North,42.51
+ORD-1110,CUST-298,Ma Thin,Female,9/8/2023,Keyboard,Accessories,5,74.01,Completed,Paypal,East,370.05
+ORD-1329,CUST-223,U Win,Male,1/31/2023,Mouse,Accessories,3,49.86,Completed,Credit Card,West,149.58
+ORD-1272,CUST-224,Ko Htet,Male,8/12/2023,Mouse,Accessories,5,48.23,Cancelled,Paypal,East,241.15
+ORD-1029,CUST-239,Unknown,Unknown,2/9/2023,Mouse,Accessories,1,50.32,Returned,Cash,North,50.32
+ORD-1280,CUST-162,Ma Aye,Female,6/1/2023,Keyboard,Accessories,5,84.26,Completed,Cash,West,421.3
+ORD-1411,CUST-244,U Kyaw,Male,10/31/2023,Mouse,Accessories,1,51.54,Completed,Paypal,West,51.54
+ORD-1026,CUST-283,U Win,Male,3/16/2023,Keyboard,Accessories,3,79.51,Returned,Paypal,South,238.53
+ORD-1007,CUST-135,Ma Thin,Female,11/21/2023,Laptop,Electronics,2,1000.8,Completed,Credit Card,South,2001.6
+ORD-1181,CUST-284,U Win,Male,11/21/2023,Webcam,Accessories,2,88.85,Returned,Debit Card,West,177.7
+ORD-1472,CUST-213,Unknown,Unknown,10/8/2023,Webcam,Accessories,2,88.85,Completed,Debit Card,East,177.7
+ORD-1108,CUST-183,Daw Mya,Female,6/16/2023,Phone,Electronics,3,695.67,Pending,Paypal,North,2087.01
+ORD-1037,CUST-140,Ko Aung,Male,8/9/2023,Mouse,Accessories,2,42.16,Completed,Credit Card,West,84.32
+ORD-1157,CUST-198,Daw Su,Female,2/5/2023,Webcam,Accessories,4,98.49,Completed,Paypal,West,393.96
+ORD-1488,CUST-210,Daw Mya,Female,12/5/2023,Mouse,Accessories,5,43.15,Cancelled,Paypal,North,215.75
+ORD-1118,CUST-154,Daw Khin,Female,10/30/2023,USB Hub,Accessories,3,38.52,Completed,Cash,East,115.56
+ORD-1114,CUST-180,Ko Zaw,Male,6/30/2023,Keyboard,Accessories,4,73.76,Returned,Credit Card,West,295.04
+ORD-1425,CUST-212,Daw Mya,Female,6/15/2023,Monitor,Electronics,4,401.31,Pending,Credit Card,South,1605.24
+ORD-1175,CUST-128,Ko Zaw,Male,12/31/2023,USB Hub,Accessories,1,34.46,Completed,Debit Card,West,34.46
+ORD-1204,CUST-182,Ko Htet,Male,11/29/2023,Laptop,Electronics,5,995.99,Completed,Cash,West,4979.95
+ORD-1369,CUST-230,Ko Htet,Male,7/25/2023,Laptop,Electronics,2,998.04,Returned,Paypal,West,1996.08
+ORD-1144,CUST-230,Ko Aung,Male,9/11/2023,Headphones,Audio,4,153.78,Completed,Credit Card,West,615.12
+ORD-1194,CUST-150,Ko Htet,Male,5/26/2023,Mouse,Accessories,2,49.54,Returned,Credit Card,North,99.08
+ORD-1383,CUST-110,Ko Aung,Male,4/6/2023,Webcam,Accessories,2,80.72,Pending,Paypal,North,161.44
+ORD-1395,CUST-283,Daw Khin,Female,7/3/2023,Phone,Electronics,4,695.45,Completed,Cash,West,2781.8
+ORD-1376,CUST-160,Daw Khin,Female,7/3/2023,Mouse,Accessories,5,51.75,Completed,Paypal,West,258.75
+ORD-1486,CUST-241,Unknown,Unknown,4/7/2023,Laptop,Electronics,1,993.5,Completed,Paypal,East,993.5
+ORD-1238,CUST-282,U Win,Male,11/27/2023,Monitor,Electronics,5,390.32,Pending,Debit Card,South,1951.6
+ORD-1464,CUST-100,Ko Aung,Male,10/23/2023,Keyboard,Accessories,2,88.34,Returned,Credit Card,South,176.68
+ORD-1141,CUST-192,Ko Zaw,Male,5/21/2023,Headphones,Audio,2,142.05,Completed,Cash,South,284.1
+ORD-1406,CUST-292,Daw Khin,Female,10/1/2023,Mouse,Accessories,3,39.57,Completed,Cash,East,118.71
+ORD-1067,CUST-149,Daw Khin,Female,5/8/2023,Keyboard,Accessories,3,88.26,Completed,Credit Card,West,264.78
+ORD-1231,CUST-208,U Win,Male,11/12/2023,Mouse,Accessories,4,49.09,Pending,Paypal,West,196.36
+ORD-1168,CUST-274,Unknown,Unknown,9/21/2023,Webcam,Accessories,5,88.85,Pending,Debit Card,East,444.25
+ORD-1188,CUST-127,Ko Aung,Male,8/23/2023,Monitor,Electronics,4,390.44,Pending,Debit Card,East,1561.76
+ORD-1237,CUST-151,Unknown,Unknown,3/13/2023,Phone,Electronics,2,704.78,Cancelled,Credit Card,North,1409.56
+ORD-1390,CUST-233,Ko Zaw,Male,3/12/2023,Laptop,Electronics,3,1004.61,Pending,Credit Card,South,3013.83
+ORD-1311,CUST-146,Daw Mya,Female,6/9/2023,Mouse,Accessories,3,58.77,Pending,Credit Card,West,176.31
+ORD-1193,CUST-255,U Win,Male,9/11/2023,Webcam,Accessories,1,87.35,Cancelled,Credit Card,West,87.35
+ORD-1081,CUST-262,Daw Khin,Female,1/13/2023,USB Hub,Accessories,2,35.04,Cancelled,Credit Card,West,70.08
+ORD-1109,CUST-296,Ma Thin,Female,2/28/2023,Webcam,Accessories,3,81.89,Pending,Paypal,East,245.67
+ORD-1262,CUST-115,U Moe,Male,8/1/2023,Monitor,Electronics,3,405.63,Completed,Credit Card,West,1216.89
+ORD-1145,CUST-226,Unknown,Unknown,2/27/2023,Keyboard,Accessories,1,80.13,Completed,Credit Card,East,80.13
+ORD-1092,CUST-118,Ko Htet,Male,6/25/2023,Keyboard,Accessories,3,79.51,Completed,Debit Card,South,238.53
+ORD-1152,CUST-140,Ko Htet,Male,6/2/2023,Laptop,Electronics,1,993.25,Pending,Paypal,East,993.25
+ORD-1352,CUST-175,Ma Thin,Female,3/3/2023,Webcam,Accessories,3,98.06,Completed,Cash,South,294.18
+ORD-1410,CUST-259,Ma Aye,Female,3/30/2023,Laptop,Electronics,2,1001.78,Pending,Paypal,South,2003.56
+ORD-1277,CUST-246,Ma Nwe,Female,12/8/2023,Keyboard,Accessories,2,86.48,Returned,Cash,West,172.96
+ORD-1083,CUST-141,Daw Mya,Female,2/13/2023,USB Hub,Accessories,3,35.09,Returned,Paypal,West,105.27
+ORD-1103,CUST-263,U Moe,Male,7/19/2023,USB Hub,Accessories,2,40.29,Pending,Credit Card,East,80.58
+ORD-1165,CUST-274,U Moe,Male,3/28/2023,USB Hub,Accessories,3,31.84,Completed,Paypal,South,95.52
+ORD-1163,CUST-241,U Win,Male,10/19/2023,Webcam,Accessories,1,79.12,Completed,Credit Card,North,79.12
+ORD-1199,CUST-238,Ma Nwe,Female,8/24/2023,Laptop,Electronics,2,999.48,Cancelled,Paypal,North,1998.96
+ORD-1250,CUST-116,U Win,Male,9/28/2023,USB Hub,Accessories,2,42.71,Cancelled,Credit Card,East,85.42
+ORD-1074,CUST-174,Ma Aye,Female,2/20/2023,Mouse,Accessories,4,52.45,Completed,Paypal,East,209.8
+ORD-1468,CUST-263,Daw Su,Female,6/13/2023,Headphones,Audio,1,151.39,Cancelled,Paypal,North,151.39
+ORD-1234,CUST-293,Ko Zaw,Male,3/5/2023,Monitor,Electronics,5,392.17,Cancelled,Cash,East,1960.85
+ORD-1498,CUST-270,Ko Aung,Male,7/15/2023,Keyboard,Accessories,3,78.58,Cancelled,Cash,North,235.74
+ORD-1119,CUST-245,Ma Nwe,Female,3/10/2023,Monitor,Electronics,4,399.26,Completed,Paypal,South,1597.04
+ORD-1291,CUST-205,Unknown,Unknown,4/7/2023,Monitor,Electronics,1,404.83,Completed,Credit Card,North,404.83
+ORD-1432,CUST-102,Daw Su,Female,6/15/2023,Webcam,Accessories,1,89.11,Completed,Credit Card,North,89.11
+ORD-1455,CUST-229,U Kyaw,Male,5/16/2023,USB Hub,Accessories,1,48.81,Completed,Credit Card,South,48.81
+ORD-1367,CUST-140,Ma Nwe,Female,2/1/2023,Phone,Electronics,2,707.33,Pending,Debit Card,North,1414.66
+ORD-1416,CUST-229,U Win,Male,10/16/2023,Mouse,Accessories,2,49.54,Returned,Debit Card,West,99.08
+ORD-1247,CUST-130,U Moe,Male,5/3/2023,Webcam,Accessories,3,88.85,Completed,Credit Card,West,266.55
+ORD-1265,CUST-108,Ko Htet,Male,3/20/2023,Monitor,Electronics,3,402.53,Completed,Credit Card,West,1207.59
+ORD-1268,CUST-231,U Kyaw,Male,3/21/2023,Keyboard,Accessories,2,79.68,Completed,Paypal,North,159.36
+ORD-1312,CUST-171,Unknown,Unknown,10/11/2023,Phone,Electronics,1,696.81,Completed,Credit Card,West,696.81
+ORD-1398,CUST-167,Ko Zaw,Male,7/18/2023,Webcam,Accessories,5,84.01,Completed,Paypal,North,420.05
+ORD-1322,CUST-103,Ko Htet,Male,10/5/2023,Laptop,Electronics,5,1002.91,Completed,Paypal,North,5014.55
+ORD-1036,CUST-294,U Win,Male,6/18/2023,Phone,Electronics,4,707.02,Completed,Credit Card,North,2828.08
+ORD-1196,CUST-195,Ma Aye,Female,9/6/2023,Mouse,Accessories,4,55.64,Completed,Credit Card,East,222.56
+ORD-1139,CUST-249,Daw Su,Female,2/12/2023,Phone,Electronics,5,690.9,Returned,Credit Card,North,3454.5
+ORD-1388,CUST-249,Ko Aung,Male,10/9/2023,Headphones,Audio,5,148,Cancelled,Credit Card,East,740
+ORD-1438,CUST-134,Ma Aye,Female,11/11/2023,Monitor,Electronics,4,406.65,Returned,Credit Card,South,1626.6
+ORD-1301,CUST-286,Ma Aye,Female,1/19/2023,Keyboard,Accessories,5,84.88,Pending,Paypal,West,424.4
+ORD-1418,CUST-133,Ma Thin,Female,3/31/2023,Webcam,Accessories,5,93.37,Pending,Paypal,North,466.85
+ORD-1059,CUST-196,Daw Mya,Female,7/13/2023,Phone,Electronics,2,694.9,Completed,Paypal,East,1389.8
+ORD-1469,CUST-167,Daw Khin,Female,2/23/2023,USB Hub,Accessories,3,31.96,Completed,Paypal,South,95.88
+ORD-1248,CUST-163,U Moe,Male,2/27/2023,Headphones,Audio,2,155.26,Completed,Debit Card,North,310.52
+ORD-1111,CUST-114,Ma Nwe,Female,11/24/2023,Headphones,Audio,2,152.22,Completed,Paypal,West,304.44
+ORD-1089,CUST-279,Ko Htet,Male,8/20/2023,Keyboard,Accessories,4,77.3,Returned,Debit Card,West,309.2
+ORD-1461,CUST-208,U Kyaw,Male,9/10/2023,Laptop,Electronics,2,1000.67,Pending,Paypal,South,2001.34
+ORD-1266,CUST-184,U Moe,Male,8/6/2023,Headphones,Audio,4,147.88,Completed,Paypal,West,591.52
+ORD-1374,CUST-117,Ma Aye,Female,3/2/2023,Laptop,Electronics,5,1006.83,Returned,Credit Card,South,5034.15
+ORD-1150,CUST-139,Daw Mya,Female,6/8/2023,USB Hub,Accessories,5,48.37,Completed,Debit Card,South,241.85
+ORD-1396,CUST-180,U Kyaw,Male,9/6/2023,USB Hub,Accessories,1,35.92,Completed,Credit Card,West,35.92
+ORD-1038,CUST-278,Ko Zaw,Male,11/30/2023,Headphones,Audio,1,145.91,Cancelled,Cash,West,145.91
+ORD-1325,CUST-160,Daw Su,Female,12/3/2023,Headphones,Audio,4,144.87,Pending,Credit Card,West,579.48
+ORD-1198,CUST-141,Daw Khin,Female,1/24/2023,USB Hub,Accessories,2,33.87,Pending,Paypal,East,67.74
+ORD-1302,CUST-186,U Kyaw,Male,12/2/2023,Phone,Electronics,1,691.22,Completed,Credit Card,North,691.22
+ORD-1408,CUST-102,Daw Su,Female,4/23/2023,Phone,Electronics,5,700.54,Completed,Paypal,North,3502.7
+ORD-1147,CUST-293,Daw Su,Female,7/7/2023,Webcam,Accessories,5,81.44,Cancelled,Paypal,West,407.2
+ORD-1317,CUST-240,Ma Thin,Female,9/10/2023,Headphones,Audio,2,151.57,Returned,Cash,West,303.14
+ORD-1296,CUST-267,U Moe,Male,4/27/2023,Monitor,Electronics,2,394.12,Pending,Cash,North,788.24
+ORD-1123,CUST-267,Daw Mya,Female,8/3/2023,Headphones,Audio,2,148.16,Completed,Credit Card,North,296.32
+ORD-1382,CUST-252,Daw Su,Female,3/30/2023,Keyboard,Accessories,2,80.03,Pending,Paypal,North,160.06
+ORD-1096,CUST-236,Ko Zaw,Male,10/14/2023,Keyboard,Accessories,3,88.56,Pending,Cash,East,265.68
+ORD-1143,CUST-135,Daw Khin,Female,8/23/2023,Webcam,Accessories,5,80.86,Completed,Debit Card,West,404.3
+ORD-1239,CUST-179,U Moe,Male,10/11/2023,Laptop,Electronics,3,1002.57,Pending,Credit Card,West,3007.71
+ORD-1321,CUST-238,U Kyaw,Male,7/29/2023,Mouse,Accessories,2,54.58,Completed,Paypal,South,109.16
+ORD-1097,CUST-286,U Win,Male,8/25/2023,USB Hub,Accessories,3,36.96,Pending,Cash,East,110.88
+ORD-1471,CUST-289,U Moe,Male,3/24/2023,Mouse,Accessories,5,41.2,Pending,Credit Card,West,206
+ORD-1122,CUST-154,Ko Aung,Male,3/14/2023,USB Hub,Accessories,5,46.34,Pending,Paypal,West,231.7
+ORD-1183,CUST-167,Ko Zaw,Male,5/23/2023,USB Hub,Accessories,4,34.11,Returned,Credit Card,North,136.44
+ORD-1202,CUST-100,U Kyaw,Male,8/8/2023,Keyboard,Accessories,3,79.51,Pending,Credit Card,South,238.53
+ORD-1246,CUST-215,Ma Nwe,Female,1/28/2023,Headphones,Audio,2,157.76,Completed,Credit Card,East,315.52
+ORD-1316,CUST-213,Ko Aung,Male,7/8/2023,Monitor,Electronics,4,395.9,Completed,Credit Card,East,1583.6
+ORD-1364,CUST-222,Ma Nwe,Female,8/5/2023,Headphones,Audio,4,150.23,Completed,Paypal,South,600.92
+ORD-1412,CUST-125,Ma Nwe,Female,12/24/2023,Laptop,Electronics,1,1008.13,Completed,Credit Card,West,1008.13
+ORD-1496,CUST-274,Ma Nwe,Female,11/25/2023,USB Hub,Accessories,4,43.28,Returned,Paypal,West,173.12
+ORD-1125,CUST-201,U Moe,Male,4/6/2023,USB Hub,Accessories,5,37.03,Completed,Paypal,South,185.15
+ORD-1489,CUST-132,Ma Nwe,Female,3/9/2023,USB Hub,Accessories,5,35.34,Pending,Credit Card,West,176.7
+ORD-1223,CUST-132,U Moe,Male,3/12/2023,Laptop,Electronics,1,999.14,Completed,Paypal,North,999.14
+ORD-1142,CUST-156,Daw Khin,Female,5/28/2023,Keyboard,Accessories,3,70.34,Cancelled,Debit Card,West,211.02
+ORD-1219,CUST-294,Ma Thin,Female,2/9/2023,Phone,Electronics,1,695.21,Pending,Debit Card,West,695.21
+ORD-1129,CUST-167,Ma Aye,Female,9/8/2023,USB Hub,Accessories,5,34.5,Pending,Cash,South,172.5
+ORD-1437,CUST-126,Ma Aye,Female,10/15/2023,Mouse,Accessories,5,55.94,Completed,Paypal,West,279.7
+ORD-1298,CUST-125,Ko Zaw,Male,7/1/2023,Mouse,Accessories,3,49.56,Pending,Debit Card,South,148.68
+ORD-1451,CUST-152,U Win,Male,6/13/2023,Mouse,Accessories,2,45.66,Cancelled,Cash,South,91.32
+ORD-1392,CUST-166,U Win,Male,9/27/2023,Mouse,Accessories,5,47.65,Completed,Debit Card,South,238.25
+ORD-1402,CUST-265,Ko Htet,Male,8/30/2023,Phone,Electronics,1,695.67,Completed,Credit Card,West,695.67
+ORD-1368,CUST-114,Ko Htet,Male,4/24/2023,Headphones,Audio,3,141.45,Returned,Cash,West,424.35
+ORD-1294,CUST-113,Daw Khin,Female,2/22/2023,Webcam,Accessories,1,93.11,Completed,Paypal,East,93.11
+ORD-1380,CUST-163,Ko Htet,Male,7/22/2023,Keyboard,Accessories,1,79.51,Returned,Credit Card,East,79.51
+ORD-1354,CUST-114,Daw Mya,Female,12/27/2023,USB Hub,Accessories,2,29.7,Completed,Paypal,South,59.4
+ORD-1112,CUST-158,U Moe,Male,7/18/2023,USB Hub,Accessories,2,3900,Cancelled,Credit Card,East,7800
+ORD-1179,CUST-216,Ko Aung,Male,5/18/2023,Laptop,Electronics,3,989.91,Completed,Credit Card,South,2969.73
+ORD-1318,CUST-125,Ma Aye,Female,4/11/2023,Mouse,Accessories,5,53.7,Completed,Paypal,West,268.5
+ORD-1424,CUST-140,Daw Su,Female,6/24/2023,Monitor,Electronics,3,394.8,Completed,Paypal,West,1184.4
+ORD-1341,CUST-173,Daw Mya,Female,6/11/2023,USB Hub,Accessories,4,39.91,Returned,Paypal,West,159.64
+ORD-1479,CUST-119,Ko Aung,Male,4/8/2023,Keyboard,Accessories,1,79.51,Completed,Cash,North,79.51
+ORD-1373,CUST-252,Ko Htet,Male,8/2/2023,Mouse,Accessories,2,40.3,Completed,Debit Card,East,80.6
+ORD-1233,CUST-238,Ko Htet,Male,2/21/2023,Laptop,Electronics,2,1000.735,Completed,Cash,North,2001.47
+ORD-1164,CUST-102,Ma Nwe,Female,5/24/2023,Keyboard,Accessories,4,80.33,Completed,Cash,West,321.32
+ORD-1136,CUST-291,Ko Zaw,Male,7/29/2023,Mouse,Accessories,5,43.3,Completed,Cash,South,216.5
+ORD-1197,CUST-295,Ma Thin,Female,12/16/2023,Phone,Electronics,5,690.76,Completed,Paypal,East,3453.8
+ORD-1258,CUST-101,Daw Khin,Female,4/21/2023,USB Hub,Accessories,4,45.7,Completed,Credit Card,East,182.8
+ORD-1232,CUST-154,Ko Aung,Male,4/22/2023,Phone,Electronics,4,693.95,Pending,Debit Card,North,2775.8
+ORD-1115,CUST-202,U Kyaw,Male,11/13/2023,Phone,Electronics,2,692.48,Completed,Debit Card,North,1384.96
+ORD-1120,CUST-283,U Kyaw,Male,5/3/2023,USB Hub,Accessories,5,39.08,Completed,Credit Card,East,195.4
+ORD-1361,CUST-114,Daw Su,Female,3/31/2023,Keyboard,Accessories,5,81.99,Pending,Debit Card,West,409.95
+ORD-1224,CUST-268,Ko Zaw,Male,3/10/2023,Mouse,Accessories,5,50.09,Pending,Paypal,North,250.45
+ORD-1441,CUST-127,U Moe,Male,12/19/2023,Laptop,Electronics,2,992.89,Completed,Paypal,East,1985.78
+ORD-1348,CUST-283,Daw Khin,Female,8/27/2023,Keyboard,Accessories,5,74.49,Completed,Debit Card,South,372.45
+ORD-1127,CUST-217,U Kyaw,Male,11/27/2023,Keyboard,Accessories,5,70.47,Pending,Debit Card,South,352.35
+ORD-1285,CUST-124,Unknown,Unknown,3/2/2023,Phone,Electronics,2,695.67,Completed,Credit Card,South,1391.34
+ORD-1428,CUST-177,Ko Zaw,Male,9/27/2023,Monitor,Electronics,2,395.25,Completed,Credit Card,South,790.5
+ORD-1107,CUST-275,Ma Thin,Female,2/10/2023,Laptop,Electronics,1,1007.01,Cancelled,Paypal,West,1007.01
+ORD-1384,CUST-258,Ko Htet,Male,8/17/2023,Phone,Electronics,1,708.99,Completed,Credit Card,South,708.99
+ORD-1336,CUST-199,Ko Aung,Male,9/16/2023,Mouse,Accessories,4,58.47,Completed,Paypal,South,233.88
+ORD-1133,CUST-243,Daw Mya,Female,6/9/2023,Phone,Electronics,1,690.98,Cancelled,Paypal,North,690.98
+ORD-1377,CUST-203,Unknown,Unknown,6/19/2023,Mouse,Accessories,1,49.18,Pending,Paypal,North,49.18
+ORD-1044,CUST-295,U Kyaw,Male,12/22/2023,Monitor,Electronics,1,408.85,Completed,Debit Card,South,408.85
+ORD-1481,CUST-138,Daw Khin,Female,10/4/2023,Phone,Electronics,3,695.85,Pending,Credit Card,West,2087.55
+ORD-1065,CUST-192,Ma Thin,Female,10/2/2023,Mouse,Accessories,2,55.13,Cancelled,Debit Card,East,110.26
+ORD-1283,CUST-204,Daw Su,Female,3/6/2023,USB Hub,Accessories,5,38.98,Completed,Paypal,West,194.9
+ORD-1085,CUST-190,U Win,Male,6/25/2023,Phone,Electronics,1,691.71,Completed,Debit Card,South,691.71
+ORD-1242,CUST-266,Daw Su,Female,12/4/2023,Phone,Electronics,3,695.67,Returned,Paypal,East,2087.01
+ORD-1186,CUST-145,Ma Thin,Female,1/2/2023,Mouse,Accessories,4,53.07,Cancelled,Debit Card,South,212.28
+ORD-1399,CUST-201,Ma Nwe,Female,1/14/2023,Mouse,Accessories,5,50.02,Pending,Debit Card,West,250.1
+ORD-1159,CUST-252,Daw Su,Female,12/30/2023,Laptop,Electronics,1,1000.735,Completed,Cash,South,1000.735
+ORD-1012,CUST-239,Daw Su,Female,2/14/2023,Mouse,Accessories,1,48.39,Completed,Debit Card,West,48.39
+ORD-1035,CUST-101,U Moe,Male,11/14/2023,Laptop,Electronics,2,989.19,Completed,Paypal,West,1978.38
+ORD-1028,CUST-279,Ma Aye,Female,6/3/2023,Monitor,Electronics,3,391.91,Cancelled,Credit Card,West,1175.73
+ORD-1170,CUST-292,Ko Aung,Male,3/11/2023,Laptop,Electronics,1,1000.35,Pending,Debit Card,North,1000.35
+ORD-1415,CUST-154,U Kyaw,Male,10/18/2023,USB Hub,Accessories,2,30.2,Pending,Paypal,East,60.4
+ORD-1353,CUST-155,Daw Khin,Female,12/18/2023,USB Hub,Accessories,2,41.15,Completed,Paypal,East,82.3
+ORD-1221,CUST-296,Ma Thin,Female,2/22/2023,Mouse,Accessories,2,40.53,Completed,Paypal,East,81.06
+ORD-1095,CUST-143,Ma Aye,Female,10/10/2023,Laptop,Electronics,1,1002.71,Cancelled,Paypal,West,1002.71
+ORD-1051,CUST-188,U Moe,Male,8/25/2023,Webcam,Accessories,4,91.14,Completed,Cash,South,364.56
+ORD-1240,CUST-202,U Kyaw,Male,11/8/2023,Webcam,Accessories,2,93.47,Completed,Paypal,East,186.94
+ORD-1386,CUST-207,Ko Htet,Male,12/11/2023,Headphones,Audio,1,155.47,Completed,Cash,North,155.47
+ORD-1351,CUST-148,Daw Su,Female,8/26/2023,Keyboard,Accessories,4,85.02,Completed,Credit Card,North,340.08
+ORD-1394,CUST-271,Ko Zaw,Male,7/15/2023,USB Hub,Accessories,4,32.06,Cancelled,Credit Card,East,128.24
+ORD-1178,CUST-140,U Moe,Male,3/14/2023,Webcam,Accessories,1,88.73,Completed,Credit Card,South,88.73
+ORD-1041,CUST-171,Ma Thin,Female,4/13/2023,Phone,Electronics,2,692.98,Completed,Debit Card,South,1385.96
+ORD-1454,CUST-167,Ko Aung,Male,6/21/2023,USB Hub,Accessories,3,38.98,Completed,Credit Card,East,116.94
+ORD-1403,CUST-176,U Kyaw,Male,10/27/2023,Laptop,Electronics,5,1002.17,Completed,Credit Card,South,5010.85
+ORD-1206,CUST-104,Ko Htet,Male,7/4/2023,Keyboard,Accessories,5,73.73,Completed,Cash,West,368.65
+ORD-1282,CUST-221,Ko Htet,Male,5/13/2023,USB Hub,Accessories,4,37.75,Cancelled,Paypal,North,151
+ORD-1358,CUST-115,Ma Nwe,Female,7/2/2023,Laptop,Electronics,5,1007.98,Completed,Paypal,West,5039.9
+ORD-1254,CUST-241,U Win,Male,10/7/2023,Monitor,Electronics,1,407.95,Completed,Credit Card,North,407.95
+ORD-1429,CUST-256,Ma Thin,Female,2/7/2023,Webcam,Accessories,2,88.97,Pending,Paypal,East,177.94
+ORD-1004,CUST-170,Daw Su,Female,5/7/2023,Headphones,Audio,5,155.41,Pending,Debit Card,West,777.05
+ORD-1256,CUST-250,Ma Nwe,Female,7/2/2023,Phone,Electronics,5,690.54,Pending,Paypal,West,3452.7
+ORD-1467,CUST-133,Ko Zaw,Male,1/18/2023,Phone,Electronics,4,692.41,Completed,Paypal,East,2769.64
+ORD-1100,CUST-218,Unknown,Unknown,8/10/2023,Webcam,Accessories,1,91.83,Completed,Credit Card,North,91.83
+ORD-1226,CUST-240,Ko Htet,Male,9/29/2023,Webcam,Accessories,4,95.2,Completed,Paypal,South,380.8
+ORD-1444,CUST-139,Ko Htet,Male,7/20/2023,Laptop,Electronics,4,1008.78,Completed,Credit Card,West,4035.12
+ORD-1213,CUST-245,Ma Thin,Female,4/20/2023,Phone,Electronics,3,701.71,Completed,Credit Card,West,2105.13
+ORD-1439,CUST-167,Daw Su,Female,4/25/2023,Phone,Electronics,1,704.28,Completed,Paypal,West,704.28
+ORD-1171,CUST-168,Unknown,Unknown,7/30/2023,Webcam,Accessories,4,80.05,Cancelled,Paypal,East,320.2
+ORD-1098,CUST-162,Unknown,Unknown,7/27/2023,Phone,Electronics,2,691.44,Pending,Cash,West,1382.88
+ORD-1292,CUST-219,U Win,Male,10/18/2023,USB Hub,Accessories,4,34.74,Completed,Credit Card,South,138.96
+ORD-1215,CUST-121,U Win,Male,9/23/2023,USB Hub,Accessories,1,32.02,Completed,Paypal,South,32.02
+ORD-1061,CUST-241,Ko Zaw,Male,7/25/2023,Mouse,Accessories,3,49.79,Completed,Paypal,East,149.37
+ORD-1032,CUST-214,Ma Nwe,Female,4/11/2023,Monitor,Electronics,2,393.82,Pending,Debit Card,West,787.64
+ORD-1267,CUST-118,Daw Mya,Female,4/15/2023,USB Hub,Accessories,4,43.97,Cancelled,Paypal,South,175.88
+ORD-1327,CUST-204,Ma Thin,Female,9/29/2023,Phone,Electronics,5,689.84,Completed,Paypal,North,3449.2
+ORD-1200,CUST-299,Ko Htet,Male,3/22/2023,Laptop,Electronics,1,995.21,Completed,Paypal,North,995.21
+ORD-1465,CUST-185,U Win,Male,12/18/2023,Phone,Electronics,5,695.67,Cancelled,Credit Card,West,3478.35
+ORD-1027,CUST-266,U Win,Male,8/11/2023,Webcam,Accessories,3,84.87,Cancelled,Credit Card,South,254.61
+ORD-1405,CUST-180,U Moe,Male,3/12/2023,Monitor,Electronics,5,400.27,Returned,Cash,North,2001.35
+ORD-1230,CUST-255,Ko Zaw,Male,3/19/2023,Phone,Electronics,1,695.87,Cancelled,Credit Card,West,695.87
+ORD-1260,CUST-281,U Kyaw,Male,7/23/2023,USB Hub,Accessories,4,44.33,Returned,Paypal,North,177.32
+ORD-1378,CUST-130,Daw Mya,Female,8/25/2023,USB Hub,Accessories,1,33.02,Pending,Paypal,East,33.02
+ORD-1288,CUST-210,Daw Su,Female,2/2/2023,Webcam,Accessories,3,88.85,Completed,Paypal,West,266.55
+ORD-1162,CUST-164,Ko Aung,Male,4/16/2023,Webcam,Accessories,3,85.18,Pending,Paypal,East,255.54
+ORD-1391,CUST-180,Daw Khin,Female,11/26/2023,Headphones,Audio,1,142.64,Pending,Paypal,West,142.64
+ORD-1442,CUST-290,Ma Thin,Female,4/1/2023,USB Hub,Accessories,1,30.47,Cancelled,Credit Card,West,30.47
+ORD-1138,CUST-209,Ma Thin,Female,8/16/2023,Monitor,Electronics,5,398.07,Returned,Credit Card,East,1990.35
+ORD-1062,CUST-175,U Win,Male,12/21/2023,Webcam,Accessories,2,89.62,Completed,Paypal,West,179.24
+ORD-1135,CUST-167,U Kyaw,Male,9/16/2023,Keyboard,Accessories,5,84.38,Completed,Paypal,South,421.9
+ORD-1128,CUST-136,Unknown,Unknown,3/30/2023,Mouse,Accessories,4,51.17,Completed,Credit Card,North,204.68
+ORD-1499,CUST-126,Daw Mya,Female,8/17/2023,Keyboard,Accessories,5,79.77,Pending,Credit Card,South,398.85
+ORD-1008,CUST-288,Daw Khin,Female,7/19/2023,Headphones,Audio,1,156.48,Pending,Paypal,North,156.48
+ORD-1326,CUST-142,U Moe,Male,7/6/2023,USB Hub,Accessories,4,38.98,Completed,Debit Card,South,155.92
+ORD-1485,CUST-249,Ma Nwe,Female,9/9/2023,Mouse,Accessories,2,43.93,Completed,Paypal,North,87.86
+ORD-1064,CUST-258,U Kyaw,Male,7/4/2023,Webcam,Accessories,3,95.49,Completed,Paypal,South,286.47
+ORD-1300,CUST-203,Daw Mya,Female,3/18/2023,Mouse,Accessories,5,49.54,Returned,Credit Card,East,247.7
+ORD-1014,CUST-251,Ma Aye,Female,9/20/2023,Phone,Electronics,4,702,Completed,Debit Card,East,2808
+ORD-1156,CUST-116,Ma Nwe,Female,3/2/2023,Laptop,Electronics,4,1005.14,Pending,Credit Card,South,4020.56
+ORD-1040,CUST-187,Ko Aung,Male,11/5/2023,Laptop,Electronics,4,994,Completed,Paypal,West,3976
+ORD-1379,CUST-245,Ko Htet,Male,10/21/2023,Phone,Electronics,1,704.81,Completed,Credit Card,South,704.81
+ORD-1420,CUST-117,Ko Aung,Male,5/11/2023,Phone,Electronics,3,691.62,Pending,Credit Card,West,2074.86
+ORD-1216,CUST-287,Daw Su,Female,5/1/2023,Mouse,Accessories,1,47.84,Cancelled,Credit Card,West,47.84
+ORD-1409,CUST-217,Ko Htet,Male,7/18/2023,Keyboard,Accessories,4,84.34,Cancelled,Credit Card,West,337.36
+ORD-1279,CUST-221,Ma Thin,Female,12/29/2023,USB Hub,Accessories,1,46.02,Cancelled,Paypal,West,46.02
+ORD-1453,CUST-262,U Win,Male,12/10/2023,Mouse,Accessories,4,49.31,Pending,Debit Card,East,197.24
+ORD-1449,CUST-283,Ma Nwe,Female,12/9/2023,Laptop,Electronics,1,999.18,Completed,Paypal,West,999.18
+ORD-1337,CUST-167,U Win,Male,7/21/2023,USB Hub,Accessories,3,38.95,Returned,Credit Card,West,116.85
+ORD-1236,CUST-276,U Kyaw,Male,8/8/2023,Monitor,Electronics,1,395.77,Cancelled,Credit Card,West,395.77
+ORD-1207,CUST-128,Daw Su,Female,7/10/2023,Keyboard,Accessories,4,72.95,Cancelled,Paypal,East,291.8
+ORD-1212,CUST-161,Ko Zaw,Male,12/27/2023,USB Hub,Accessories,2,47.48,Cancelled,Paypal,South,94.96
+ORD-1295,CUST-272,Daw Su,Female,12/12/2023,Monitor,Electronics,5,389.11,Completed,Paypal,North,1945.55
+ORD-1476,CUST-243,Ko Aung,Male,1/12/2023,USB Hub,Accessories,3,43.72,Cancelled,Credit Card,North,131.16
+ORD-1251,CUST-186,Daw Mya,Female,1/7/2023,USB Hub,Accessories,4,41.92,Returned,Credit Card,West,167.68
+ORD-1477,CUST-102,Ma Nwe,Female,11/8/2023,Headphones,Audio,4,141.76,Returned,Paypal,West,567.04
+ORD-1303,CUST-127,U Kyaw,Male,6/14/2023,Keyboard,Accessories,1,80.93,Pending,Credit Card,East,80.93
+ORD-1350,CUST-139,Daw Khin,Female,4/17/2023,Webcam,Accessories,5,91.75,Pending,Credit Card,North,458.75
+ORD-1269,CUST-160,Ko Zaw,Male,7/20/2023,Monitor,Electronics,3,405.17,Completed,Cash,East,1215.51
+ORD-1201,CUST-235,Ma Aye,Female,1/1/2023,Monitor,Electronics,1,400.355,Completed,Paypal,South,400.355
+ORD-1161,CUST-235,U Moe,Male,3/13/2023,Mouse,Accessories,4,42.61,Cancelled,Paypal,North,170.44
+ORD-1043,CUST-155,Ma Nwe,Female,6/13/2023,Monitor,Electronics,1,400.44,Cancelled,Cash,South,400.44
+ORD-1217,CUST-224,U Kyaw,Male,6/25/2023,Monitor,Electronics,4,394.49,Completed,Paypal,North,1577.96
+ORD-1401,CUST-271,Daw Su,Female,5/24/2023,USB Hub,Accessories,1,39.05,Completed,Credit Card,South,39.05
+ORD-1190,CUST-176,U Moe,Male,2/2/2023,USB Hub,Accessories,5,3900,Pending,Debit Card,East,19500
+ORD-1309,CUST-135,Ma Nwe,Female,7/25/2023,USB Hub,Accessories,2,48.49,Returned,Paypal,West,96.98
+ORD-1259,CUST-118,Ko Htet,Male,1/31/2023,Keyboard,Accessories,5,69.75,Cancelled,Cash,East,348.75
+ORD-1105,CUST-242,U Win,Male,12/27/2023,Keyboard,Accessories,5,73.32,Completed,Credit Card,East,366.6
+ORD-1053,CUST-167,U Win,Male,5/30/2023,Keyboard,Accessories,5,82.56,Cancelled,Credit Card,North,412.8
+ORD-1389,CUST-244,Daw Mya,Female,2/14/2023,Phone,Electronics,4,695.89,Completed,Paypal,North,2783.56
+ORD-1001,CUST-128,U Win,Male,12/15/2023,Webcam,Accessories,3,79.87,Completed,Cash,West,239.61
+ORD-1460,CUST-262,U Kyaw,Male,3/27/2023,Mouse,Accessories,1,52.48,Completed,Credit Card,South,52.48
+ORD-1049,CUST-124,U Kyaw,Male,7/10/2023,Mouse,Accessories,3,49.54,Pending,Paypal,West,148.62
+ORD-1419,CUST-189,Daw Khin,Female,2/16/2023,USB Hub,Accessories,3,46.22,Completed,Cash,South,138.66
+ORD-1080,CUST-216,U Kyaw,Male,9/14/2023,USB Hub,Accessories,2,45.48,Completed,Paypal,North,90.96
+ORD-1205,CUST-225,Unknown,Unknown,5/21/2023,Laptop,Electronics,4,1005.38,Pending,Credit Card,North,4021.52
+ORD-1034,CUST-171,U Moe,Male,7/22/2023,Monitor,Electronics,1,394.08,Completed,Credit Card,West,394.08
+ORD-1430,CUST-267,Daw Su,Female,12/6/2023,USB Hub,Accessories,3,38.98,Completed,Credit Card,South,116.94
+ORD-1263,CUST-158,U Kyaw,Male,7/25/2023,Laptop,Electronics,4,1005.18,Returned,Credit Card,West,4020.72
+ORD-1427,CUST-280,Ma Aye,Female,3/14/2023,Headphones,Audio,5,145.55,Pending,Debit Card,North,727.75
+ORD-1493,CUST-110,U Win,Male,3/1/2023,Monitor,Electronics,1,408.6,Completed,Paypal,North,408.6
+ORD-1366,CUST-235,Ma Nwe,Female,3/13/2023,Headphones,Audio,4,158.93,Completed,Paypal,North,635.72
+ORD-1091,CUST-265,Daw Su,Female,12/30/2023,Keyboard,Accessories,3,88.03,Completed,Paypal,South,264.09
+ORD-1339,CUST-300,Ko Zaw,Male,12/6/2023,Phone,Electronics,3,695.67,Cancelled,Paypal,North,2087.01
+ORD-1495,CUST-153,Ma Aye,Female,12/5/2023,Webcam,Accessories,4,84.81,Returned,Paypal,West,339.24
+ORD-1052,CUST-254,Daw Su,Female,4/18/2023,Laptop,Electronics,5,1001.73,Completed,Credit Card,West,5008.65
+ORD-1345,CUST-300,Daw Mya,Female,4/14/2023,Headphones,Audio,2,146.03,Completed,Paypal,West,292.06
+ORD-1264,CUST-117,Ma Nwe,Female,10/2/2023,USB Hub,Accessories,5,38.98,Cancelled,Paypal,North,194.9
+ORD-1241,CUST-271,Ma Aye,Female,12/20/2023,USB Hub,Accessories,5,47.13,Completed,Paypal,East,235.65
+ORD-1013,CUST-122,Ma Nwe,Female,8/18/2023,Headphones,Audio,1,148.435,Completed,Credit Card,South,148.435
+ORD-1315,CUST-119,U Moe,Male,11/15/2023,Keyboard,Accessories,1,79.51,Pending,Credit Card,West,79.51
+ORD-1088,CUST-168,Daw Mya,Female,8/13/2023,Phone,Electronics,2,703.85,Completed,Paypal,East,1407.7
+ORD-1387,CUST-268,U Moe,Male,6/1/2023,Mouse,Accessories,2,58.45,Pending,Paypal,East,116.9
+ORD-1273,CUST-154,U Kyaw,Male,3/5/2023,Mouse,Accessories,4,49.54,Completed,Paypal,South,198.16
+ORD-1166,CUST-284,Ko Htet,Male,12/27/2023,Keyboard,Accessories,1,69.61,Completed,Cash,West,69.61
+ORD-1328,CUST-224,U Kyaw,Male,8/3/2023,Laptop,Electronics,3,999.31,Completed,Paypal,West,2997.93
+ORD-1134,CUST-237,Ma Nwe,Female,7/16/2023,Mouse,Accessories,1,56.06,Completed,Cash,East,56.06
+ORD-1306,CUST-148,Ma Nwe,Female,3/3/2023,Headphones,Audio,5,147.58,Completed,Debit Card,West,737.9
+ORD-1319,CUST-112,Daw Su,Female,10/7/2023,Laptop,Electronics,2,989.89,Cancelled,Debit Card,East,1979.78
+ORD-1243,CUST-195,U Win,Male,4/16/2023,Webcam,Accessories,5,81.83,Completed,Cash,West,409.15
+ORD-1054,CUST-111,Daw Khin,Female,2/5/2023,Monitor,Electronics,4,402.18,Completed,Credit Card,West,1608.72
+ORD-1363,CUST-249,U Win,Male,10/12/2023,Phone,Electronics,3,698.98,Cancelled,Paypal,East,2096.94
+ORD-1050,CUST-191,Ko Aung,Male,9/10/2023,Laptop,Electronics,3,994.72,Pending,Debit Card,South,2984.16
+ORD-1480,CUST-276,Daw Khin,Female,10/11/2023,Headphones,Audio,5,142.46,Cancelled,Credit Card,North,712.3
+ORD-1174,CUST-187,Ma Nwe,Female,9/3/2023,Headphones,Audio,5,148.71,Completed,Credit Card,South,743.55
+ORD-1445,CUST-169,Daw Su,Female,10/18/2023,Keyboard,Accessories,3,71.38,Cancelled,Paypal,East,214.14
+ORD-1463,CUST-111,Daw Su,Female,2/21/2023,Phone,Electronics,1,689.53,Returned,Paypal,East,689.53
+ORD-1187,CUST-229,Ma Aye,Female,2/17/2023,Webcam,Accessories,4,95.67,Pending,Credit Card,North,382.68
+ORD-1475,CUST-209,Daw Mya,Female,12/27/2023,Keyboard,Accessories,5,87.41,Pending,Credit Card,West,437.05
+ORD-1169,CUST-237,U Kyaw,Male,12/14/2023,USB Hub,Accessories,1,43.43,Completed,Credit Card,East,43.43
+ORD-1058,CUST-131,Unknown,Unknown,3/20/2023,Monitor,Electronics,3,403.65,Completed,Credit Card,West,1210.95
+ORD-1474,CUST-280,U Kyaw,Male,11/11/2023,USB Hub,Accessories,4,37.21,Cancelled,Cash,North,148.84
+ORD-1048,CUST-197,Daw Mya,Female,10/16/2023,Keyboard,Accessories,1,69.98,Completed,Paypal,North,69.98
+ORD-1344,CUST-287,Daw Mya,Female,5/20/2023,Headphones,Audio,2,147.52,Completed,Credit Card,South,295.04
+ORD-1235,CUST-286,Daw Mya,Female,7/16/2023,Webcam,Accessories,2,84.66,Cancelled,Debit Card,North,169.32
+ORD-1252,CUST-105,Ma Nwe,Female,12/6/2023,Webcam,Accessories,3,86.24,Completed,Credit Card,North,258.72
+ORD-1021,CUST-229,U Win,Male,10/14/2023,Monitor,Electronics,2,408.95,Completed,Credit Card,East,817.9
+ORD-1313,CUST-218,Daw Mya,Female,8/7/2023,Keyboard,Accessories,2,81.71,Completed,Credit Card,South,163.42
+ORD-1459,CUST-123,U Kyaw,Male,8/13/2023,Headphones,Audio,5,155.31,Completed,Credit Card,South,776.55
+ORD-1160,CUST-219,Daw Su,Female,8/8/2023,Monitor,Electronics,5,405.59,Completed,Paypal,North,2027.95
+ORD-1276,CUST-285,U Moe,Male,8/11/2023,Phone,Electronics,3,694,Returned,Credit Card,West,2082
+ORD-1443,CUST-241,Ma Aye,Female,12/26/2023,Webcam,Accessories,4,94.29,Completed,Debit Card,West,377.16
+ORD-1191,CUST-263,U Win,Male,7/23/2023,Monitor,Electronics,2,406.24,Cancelled,Credit Card,North,812.48
+ORD-1385,CUST-120,U Win,Male,1/18/2023,Keyboard,Accessories,2,79.51,Cancelled,Debit Card,West,159.02
+ORD-1293,CUST-286,Ko Zaw,Male,3/22/2023,Monitor,Electronics,3,402.92,Pending,Cash,South,1208.76
+ORD-1413,CUST-118,Daw Su,Female,10/30/2023,Headphones,Audio,5,155.09,Completed,Paypal,South,775.45
+ORD-1491,CUST-178,Daw Khin,Female,11/23/2023,USB Hub,Accessories,4,34.47,Pending,Credit Card,East,137.88
+ORD-1343,CUST-278,U Moe,Male,6/17/2023,Laptop,Electronics,5,995.13,Completed,Cash,South,4975.65
+ORD-1257,CUST-156,Ma Thin,Female,4/2/2023,Mouse,Accessories,2,41.02,Completed,Credit Card,South,82.04
+ORD-1308,CUST-214,Ma Nwe,Female,9/22/2023,Keyboard,Accessories,4,82.29,Pending,Paypal,West,329.16
+ORD-1149,CUST-128,Daw Mya,Female,8/14/2023,Monitor,Electronics,1,406.36,Completed,Debit Card,East,406.36
+ORD-1130,CUST-135,Ma Aye,Female,4/6/2023,Keyboard,Accessories,3,79.97,Pending,Paypal,South,239.91
+ORD-1151,CUST-260,Ko Htet,Male,12/1/2023,Webcam,Accessories,4,86.03,Pending,Debit Card,East,344.12
+ORD-1359,CUST-291,Daw Su,Female,1/26/2023,Phone,Electronics,2,704.26,Completed,Cash,South,1408.52
+ORD-1099,CUST-141,U Moe,Male,4/6/2023,USB Hub,Accessories,1,38.09,Cancelled,Credit Card,South,38.09
+ORD-1372,CUST-117,Ko Aung,Male,5/13/2023,USB Hub,Accessories,4,35.39,Completed,Credit Card,West,141.56
+ORD-1087,CUST-271,Ma Nwe,Female,6/28/2023,Monitor,Electronics,4,407.92,Completed,Paypal,West,1631.68
+ORD-1458,CUST-113,U Moe,Male,1/1/2023,Keyboard,Accessories,5,83.17,Cancelled,Credit Card,South,415.85
+ORD-1330,CUST-154,Daw Khin,Female,3/14/2023,USB Hub,Accessories,3,44.07,Pending,Paypal,West,132.21
+ORD-1214,CUST-120,Daw Khin,Female,3/9/2023,Keyboard,Accessories,2,86.28,Pending,Debit Card,West,172.56
+ORD-1466,CUST-297,Ko Zaw,Male,8/20/2023,USB Hub,Accessories,2,43.43,Completed,Paypal,West,86.86
+ORD-1121,CUST-180,Daw Khin,Female,4/4/2023,Webcam,Accessories,4,79.87,Pending,Paypal,North,319.48
+ORD-1020,CUST-159,Ma Nwe,Female,2/13/2023,USB Hub,Accessories,5,41.62,Returned,Credit Card,South,208.1
+ORD-1071,CUST-269,Ko Htet,Male,7/24/2023,Mouse,Accessories,2,46.32,Returned,Debit Card,North,92.64
+ORD-1106,CUST-156,Ma Thin,Female,2/2/2023,Headphones,Audio,3,145.57,Pending,Paypal,West,436.71
+ORD-1270,CUST-171,Daw Su,Female,11/29/2023,Mouse,Accessories,4,55.7,Pending,Credit Card,North,222.8
+ORD-1435,CUST-176,Daw Su,Female,9/7/2023,Phone,Electronics,4,695.67,Pending,Credit Card,North,2782.68
+ORD-1102,CUST-169,Ma Aye,Female,8/19/2023,Webcam,Accessories,3,83.87,Pending,Paypal,East,251.61

@@ -1,0 +1,521 @@
+order_id,customer_id,customer_name,gender,order_date,product,category,quantity,unit_price,status,payment_method,region
+ORD-1275,CUST-133,U Kyaw,Male,01-03-2023,Keyboard,Accessories,2,85.03,completed,PAYPAL,north
+ORD-1093,CUST-255,Daw Mya,M,2023-12-13,Headphones,Audio,5,147.87,Completed,credit card,East 
+ORD-1006,CUST-157,Daw Su,male,2023/07/14,Webcam,Accessories,2,-89.0,COMPLETED,credit card,West
+ORD-1167,CUST-129,Ko Aung,MALE,21-10-2023,Mouse,Accessories,2,43.3,Pending,Cash,East 
+ORD-1090,CUST-274,Ma Nwe,Female,06/03/2023,Mouse,Accessories,3,48.79,Pending,Credit Card,East 
+ORD-1066,CUST-247,Ma Aye,M,02/13/2023,Headphones,Audio,1,145.77,COMPLETED,paypal,East
+ORD-1362,CUST-112,Ma Thin,female,2023-07-27,Mouse,Accessories,3,41.27,COMPLETED,paypal,North
+ORD-1228,CUST-167,Ko Aung,Female,14-08-2023,Phone,Electronics,1,692.02,Returned,Cash,West
+ORD-1192,CUST-229,Daw Mya,F,2023-08-08,Monitor,Electronics,3,400.47,Completed,Cash,
+ORD-1482,CUST-239,Daw Khin,Female,25-05-2023,Mouse,Accessories,1,54.44,pending,credit card,West
+ORD-1218,CUST-117,Ko Aung,MALE,2023/08/05,Headphones,Audio,5,-149.0,Pending,paypal,SOUTH
+ORD-1180,CUST-100,Ma Aye,male,12-07-2023,Phone,Electronics,4,700.99,Completed,Debit Card,South
+ORD-1307,CUST-237,Ko Zaw,F,01/27/2023,Keyboard,Accessories,2,73.81,COMPLETED,Credit Card,East 
+ORD-1249,CUST-157,Daw Mya,male,2023/11/23,Mouse,Accessories,5,55.58,COMPLETED,Cash,South
+ORD-1010,CUST-273,,M,07-06-2023,Webcam,Accessories,2,93.45,pending,,East 
+ORD-1381,CUST-248,U Win,F,2023/07/15,Mouse,Accessories,4,46.38,pending,PAYPAL,West
+ORD-1371,CUST-147,,female,2023/02/13,USB Hub,Accessories,5,42.64,pending,Debit Card,West
+ORD-1030,CUST-207,Daw Su,Male,2023/05/07,Phone,Electronics,1,,pending,paypal,East
+ORD-1494,CUST-191,Daw Khin,F,23-07-2023,Monitor,Electronics,3,408.09,Cancelled,credit card,SOUTH
+ORD-1137,CUST-249,Ko Aung,Female,2023/08/01,Monitor,Electronics,2,393.57,Returned,credit card,West
+ORD-1155,CUST-252,Daw Khin,FEMALE,14-02-2023,Webcam,Accessories,5,94.25,pending,paypal,East
+ORD-1084,CUST-194,Daw Khin,FEMALE,14-03-2023,Headphones,Audio,2,140.94,pending,Cash,SOUTH
+ORD-1117,CUST-116,Ma Nwe,MALE,2023-06-02,Headphones,Audio,5,149.52,pending,PAYPAL,North
+ORD-1172,CUST-296,Daw Mya,FEMALE,2023-05-22,Monitor,Electronics,3,401.36,Returned,paypal,West
+ORD-1323,CUST-123,Ma Nwe,FEMALE,2023-12-22,Laptop,Electronics,3,1005.23,Completed,Cash,West
+ORD-1331,CUST-202,Daw Khin,female,02/17/2023,USB Hub,Accessories,3,36.14,Pending,PayPal,East 
+ORD-1079,CUST-171,U Kyaw,FEMALE,2023/12/14,USB Hub,Accessories,1,33.43,pending,Cash,East
+ORD-1452,CUST-275,Ko Htet,MALE,2023-02-15,Headphones,Audio,5,148.14,Cancelled,credit card,East
+ORD-1310,CUST-208,Ma Nwe,FEMALE,2023-08-27,Mouse,Accessories,3,49.52,COMPLETED,paypal,North
+ORD-1253,CUST-250,U Kyaw,M,19-10-2023,Mouse,Accessories,3,42.61,COMPLETED,paypal,north
+ORD-1249,CUST-157,Daw Mya,male,2023/11/23,Mouse,Accessories,5,55.58,COMPLETED,Cash,South
+ORD-1340,CUST-216,U Win,,02-05-2023,Webcam,Accessories,3,91.05,Completed,Cash,North
+ORD-1333,CUST-142,U Kyaw,FEMALE,24-09-2023,Monitor,Electronics,4,391.49,Returned,credit card,North
+ORD-1009,CUST-126,U Kyaw,female,02/24/2023,Monitor,Electronics,5,399.52,COMPLETED,PayPal,South
+ORD-1278,CUST-247,U Kyaw,F,03/31/2023,Webcam,Accessories,4,81.05,Completed,Debit Card,North
+ORD-1068,CUST-280,Ma Nwe,M,07/01/2023,Webcam,Accessories,3,98.33,pending,Debit Card,South
+ORD-1417,CUST-167,U Win,M,2023/09/10,Headphones,Audio,5,151.13,COMPLETED,,north
+ORD-1203,CUST-253,Daw Mya,female,2023-12-19,Phone,Electronics,4,699.2,COMPLETED,,
+ORD-1393,CUST-152,Ko Zaw,F,2023-10-06,Mouse,Accessories,5,40.11,COMPLETED,Cash,South
+ORD-1305,CUST-149,Ma Nwe,MALE,2023/02/09,Phone,Electronics,5,693.84,pending,PayPal,South
+ORD-1299,CUST-115,U Kyaw,FEMALE,30-08-2023,Mouse,Accessories,4,44.76,,paypal,West
+ORD-1347,CUST-269,,MALE,02/24/2023,Phone,Electronics,3,696.05,COMPLETED,Cash,West
+ORD-1055,CUST-286,Ma Nwe,female,2023/07/29,Webcam,Accessories,2,91.56,Cancelled,Cash,East
+ORD-1189,CUST-260,Ko Zaw,Female,24-12-2023,Keyboard,Accessories,1,69.85,completed,PayPal,South
+ORD-1146,CUST-123,Daw Mya,Male,2023-05-18,Phone,Electronics,2,700.23,COMPLETED,PAYPAL,north
+ORD-1158,CUST-197,U Kyaw,FEMALE,2023/10/29,USB Hub,Accessories,5,41.27,COMPLETED,Debit Card,SOUTH
+ORD-1222,CUST-132,Ma Thin,M,2023-07-08,Phone,Electronics,1,706.11,pending,credit card,north
+ORD-1255,CUST-158,Ko Zaw,M,2023-08-30,Keyboard,Accessories,5,73.53,completed,credit card,East 
+ORD-1153,CUST-274,Ko Zaw,female,17-01-2023,Keyboard,Accessories,4,73.48,pending,credit card,South
+ORD-1176,CUST-175,Ko Aung,Female,2023-05-07,Headphones,Audio,1,141.28,Pending,Credit Card,East
+ORD-1210,CUST-161,Daw Mya,female,2023-12-25,Keyboard,Accessories,4,78.88,completed,Debit Card,East 
+ORD-1289,CUST-190,Ko Aung,Female,2023/10/23,Keyboard,Accessories,2,7900.0,completed,paypal,SOUTH
+ORD-1076,CUST-159,Ko Htet,female,2023/10/13,Keyboard,Accessories,3,71.17,,Debit Card,SOUTH
+ORD-1447,CUST-254,Daw Su,MALE,11/10/2023,USB Hub,Accessories,1,35.78,Pending,Cash,South
+ORD-1349,CUST-224,Ma Nwe,MALE,2023/03/03,Phone,Electronics,5,,Completed,,SOUTH
+ORD-1148,CUST-112,Ko Htet,FEMALE,2023-01-22,Webcam,Accessories,4,92.31,Pending,Debit Card,East
+ORD-1446,CUST-172,U Win,Male,05-11-2023,Monitor,Electronics,5,396.88,Completed,paypal,East 
+ORD-1073,CUST-297,Ko Zaw,FEMALE,08/09/2023,Laptop,Electronics,4,,completed,credit card,West
+ORD-1002,CUST-106,Ma Nwe,FEMALE,07/14/2023,Headphones,Audio,2,153.1,,credit card,SOUTH
+ORD-1077,CUST-125,U Win,FEMALE,10/22/2023,Webcam,Accessories,1,79.5,COMPLETED,PAYPAL,SOUTH
+ORD-1400,CUST-133,Ko Aung,F,04/23/2023,USB Hub,Accessories,4,35.06,Completed,PayPal,East 
+ORD-1434,CUST-241,Daw Su,M,2023-08-12,USB Hub,Accessories,4,30.01,Completed,Debit Card,South
+ORD-1487,CUST-137,Daw Mya,Female,14-02-2023,Mouse,Accessories,3,44.95,Returned,Credit Card,South
+ORD-1297,CUST-265,Daw Su,Male,01/02/2023,USB Hub,Accessories,1,39.98,Pending,,East 
+ORD-1063,CUST-260,U Kyaw,,2023-01-19,Monitor,Electronics,4,405.61,COMPLETED,credit card,North
+ORD-1483,CUST-109,Ko Htet,MALE,02/19/2023,Webcam,Accessories,1,,Pending,Credit Card,SOUTH
+ORD-1281,CUST-300,Ko Htet,male,2023/06/27,USB Hub,Accessories,4,47.11,Pending,paypal,East
+ORD-1070,CUST-111,Ko Aung,Female,2023/11/27,Headphones,Audio,2,158.35,completed,Debit Card,SOUTH
+ORD-1173,CUST-264,Daw Su,FEMALE,2023/03/06,Webcam,Accessories,1,84.44,Pending,Cash,north
+ORD-1033,CUST-250,Ko Aung,M,11-03-2023,Webcam,Accessories,5,81.86,Returned,Credit Card,
+ORD-1072,CUST-158,,F,2023-06-19,Webcam,Accessories,5,,completed,credit card,North
+ORD-1078,CUST-197,Daw Su,FEMALE,11-07-2023,Monitor,Electronics,4,400.23,COMPLETED,PAYPAL,north
+ORD-1000,CUST-263,Ma Nwe,F,12-07-2023,Monitor,Electronics,5,393.67,pending,PayPal,West
+ORD-1011,CUST-289,Daw Su,Female,05/19/2023,Keyboard,Accessories,2,82.1,Pending,paypal,West
+ORD-1338,CUST-300,Ko Aung,F,10/18/2023,Phone,Electronics,2,699.39,Returned,PayPal,West
+ORD-1022,CUST-254,Ma Aye,male,2023/05/05,Mouse,Accessories,4,47.68,COMPLETED,paypal,SOUTH
+ORD-1478,CUST-128,Ko Zaw,M,21-02-2023,Webcam,Accessories,2,85.5,Pending,Debit Card,north
+ORD-1490,CUST-110,U Moe,M,01/14/2023,Headphones,Audio,5,157.67,Cancelled,PayPal,SOUTH
+ORD-1104,CUST-276,U Win,Female,04/20/2023,Webcam,Accessories,4,94.3,Completed,PAYPAL,
+ORD-1082,CUST-193,Ko Htet,Female,01-06-2023,Keyboard,Accessories,4,71.8,pending,Debit Card,north
+ORD-1185,CUST-295,U Moe,M,07-09-2023,Laptop,Electronics,4,992.51,completed,credit card,
+ORD-1140,CUST-202,Ma Aye,,23-04-2023,Headphones,Audio,2,152.3,pending,Debit Card,SOUTH
+ORD-1018,CUST-123,Ko Aung,FEMALE,07/17/2023,Keyboard,Accessories,2,86.45,completed,,West
+ORD-1356,CUST-288,,,06/17/2023,Webcam,Accessories,2,86.66,Completed,PayPal,West
+ORD-1132,CUST-290,Ko Aung,M,2023-07-03,USB Hub,Accessories,5,38.07,COMPLETED,paypal,
+ORD-1124,CUST-227,Daw Mya,F,22-10-2023,USB Hub,Accessories,2,30.22,COMPLETED,credit card,West
+ORD-1101,CUST-197,Ma Aye,male,2023-11-11,Keyboard,Accessories,4,69.43,Cancelled,PAYPAL,West
+ORD-1039,CUST-208,Ko Htet,MALE,11-03-2023,Mouse,Accessories,4,51.78,pending,PAYPAL,West
+ORD-1470,CUST-141,,female,2023-03-29,Mouse,Accessories,2,39.63,,Debit Card,West
+ORD-1046,CUST-126,Ko Htet,M,16-06-2023,Phone,Electronics,5,694.49,completed,credit card,West
+ORD-1314,CUST-163,Daw Mya,Male,2023-10-16,Mouse,Accessories,2,44.07,COMPLETED,Credit Card,West
+ORD-1448,CUST-153,Ko Htet,M,10/17/2023,USB Hub,Accessories,5,44.1,COMPLETED,PayPal,SOUTH
+ORD-1365,CUST-228,Daw Su,MALE,2023-02-22,Keyboard,Accessories,4,74.21,Completed,,East
+ORD-1177,CUST-211,Daw Khin,Male,13-12-2023,Laptop,Electronics,4,994.66,Pending,Debit Card,East 
+ORD-1286,CUST-124,Ma Thin,male,16-01-2023,Mouse,Accessories,4,-49.0,Pending,paypal,East 
+ORD-1346,CUST-242,Ma Aye,male,10/27/2023,Mouse,Accessories,1,-49.0,COMPLETED,credit card,East
+ORD-1131,CUST-163,Daw Su,Male,2023/08/19,Mouse,Accessories,1,58.89,pending,,north
+ORD-1433,CUST-270,U Kyaw,M,2023/03/22,Laptop,Electronics,1,993.3,pending,PAYPAL,North
+ORD-1456,CUST-225,,female,12/21/2023,Phone,Electronics,1,694.98,Pending,PAYPAL,East
+ORD-1069,CUST-117,Daw Su,female,11/10/2023,Webcam,Accessories,5,93.48,Cancelled,Cash,West
+ORD-1357,CUST-238,Ko Aung,MALE,12/31/2023,Mouse,Accessories,4,51.1,Cancelled,paypal,
+ORD-1423,CUST-172,Ma Nwe,F,2023-04-14,Webcam,Accessories,1,83.96,Pending,PAYPAL,West
+ORD-1334,CUST-197,,male,10-07-2023,Headphones,Audio,4,156.79,Returned,Cash,East
+ORD-1227,CUST-142,Ko Zaw,male,2023/11/09,Keyboard,Accessories,5,75.43,completed,PayPal,north
+ORD-1434,CUST-241,Daw Su,M,2023-08-12,USB Hub,Accessories,4,30.01,Completed,Debit Card,South
+ORD-1436,CUST-269,Ma Aye,,2023/03/31,Monitor,Electronics,4,398.41,pending,Debit Card,South
+ORD-1208,CUST-192,,FEMALE,11/29/2023,Laptop,Electronics,2,1004.2,Returned,Cash,
+ORD-1332,CUST-115,,M,2023-04-29,USB Hub,Accessories,5,46.32,Cancelled,paypal,SOUTH
+ORD-1220,CUST-236,U Moe,Female,07/16/2023,Headphones,Audio,2,140.14,completed,credit card,north
+ORD-1047,CUST-123,Daw Su,MALE,21-07-2023,Webcam,Accessories,5,,COMPLETED,PAYPAL,North
+ORD-1324,CUST-292,Daw Khin,MALE,06/21/2023,Mouse,Accessories,3,54.52,Pending,PayPal,north
+ORD-1184,CUST-228,U Moe,FEMALE,08-07-2023,Headphones,Audio,3,139.15,Cancelled,Credit Card,East 
+ORD-1497,CUST-163,Ma Nwe,Male,05-04-2023,Monitor,Electronics,2,397.85,Returned,Cash,north
+ORD-1355,CUST-248,U Win,F,01/21/2023,Mouse,Accessories,3,54.57,pending,credit card,East
+ORD-1320,CUST-266,Daw Khin,M,05/06/2023,Headphones,Audio,4,155.27,Completed,PAYPAL,North
+ORD-1195,CUST-139,Daw Su,male,10/23/2023,Webcam,Accessories,5,95.03,COMPLETED,PAYPAL,West
+ORD-1335,CUST-100,,Male,2023/02/13,Laptop,Electronics,1,1006.89,Returned,credit card,north
+ORD-1492,CUST-193,Daw Khin,MALE,11-02-2023,USB Hub,Accessories,3,42.53,COMPLETED,paypal,East
+ORD-1450,CUST-187,U Kyaw,Male,02/09/2023,Keyboard,Accessories,2,69.91,Returned,Cash,East 
+ORD-1031,CUST-156,U Moe,M,2023/09/11,Mouse,Accessories,5,56.42,Pending,credit card,West
+ORD-1086,CUST-153,U Moe,female,2023/04/16,Mouse,Accessories,3,52.41,completed,Credit Card,East
+ORD-1431,CUST-235,U Moe,Male,21-02-2023,Mouse,Accessories,1,39.46,pending,credit card,North
+ORD-1075,CUST-120,U Win,Male,2023/09/19,Mouse,Accessories,5,55.45,COMPLETED,paypal,South
+ORD-1457,CUST-164,Ma Nwe,,2023-05-12,Laptop,Electronics,3,1005.57,Completed,PAYPAL,West
+ORD-1015,CUST-208,Ma Nwe,,01/14/2023,Webcam,Accessories,3,96.05,,PayPal,SOUTH
+ORD-1421,CUST-162,U Kyaw,male,27-09-2023,USB Hub,Accessories,3,40.23,,,South
+ORD-1182,CUST-284,U Moe,F,17-02-2023,Headphones,Audio,2,143.22,Completed,,
+ORD-1473,CUST-241,Ma Aye,MALE,17-02-2023,USB Hub,Accessories,5,32.03,completed,Cash,North
+ORD-1019,CUST-155,Daw Su,MALE,31-07-2023,Keyboard,Accessories,1,,Returned,PAYPAL,north
+ORD-1397,CUST-161,U Win,female,2023/10/17,Mouse,Accessories,1,56.9,pending,,East
+ORD-1056,CUST-217,Ma Nwe,M,2023/03/13,Phone,Electronics,5,701.93,COMPLETED,PayPal,north
+ORD-1304,CUST-163,Ko Aung,Male,13-06-2023,Monitor,Electronics,2,39900.0,completed,Cash,North
+ORD-1342,CUST-208,Daw Su,Male,2023/07/21,Phone,Electronics,1,690.6,COMPLETED,Debit Card,East
+ORD-1440,CUST-129,Daw Khin,MALE,31-03-2023,Webcam,Accessories,1,87.01,completed,Debit Card,West
+ORD-1404,CUST-217,Daw Khin,F,03/23/2023,Webcam,Accessories,3,91.1,completed,PAYPAL,South
+ORD-1025,CUST-150,Ma Thin,male,04-06-2023,Laptop,Electronics,2,1007.07,Cancelled,Credit Card,West
+ORD-1261,CUST-261,Daw Mya,female,2023/11/18,Webcam,Accessories,1,86.53,pending,Debit Card,
+ORD-1042,CUST-139,,female,2023-04-01,Webcam,Accessories,3,88.66,pending,PayPal,East
+ORD-1090,CUST-274,Ma Nwe,Female,06/03/2023,Mouse,Accessories,3,48.79,Pending,Credit Card,East 
+ORD-1271,CUST-271,Daw Su,M,03-02-2023,Monitor,Electronics,2,407.94,pending,Cash,North
+ORD-1209,CUST-178,Ko Aung,M,2023/07/22,Headphones,Audio,2,142.54,pending,Debit Card,West
+ORD-1287,CUST-268,U Kyaw,M,08-08-2023,Keyboard,Accessories,2,73.72,pending,PAYPAL,north
+ORD-1126,CUST-264,Ma Thin,female,2023/10/03,Mouse,Accessories,1,48.81,Returned,Cash,West
+ORD-1414,CUST-237,Ko Htet,Female,25-12-2023,USB Hub,Accessories,2,34.95,Cancelled,paypal,North
+ORD-1031,CUST-156,U Moe,M,2023/09/11,Mouse,Accessories,5,56.42,Pending,credit card,West
+ORD-1113,CUST-108,Ko Aung,FEMALE,10/28/2023,Laptop,Electronics,2,99900.0,pending,credit card,SOUTH
+ORD-1360,CUST-180,U Win,FEMALE,2023-05-14,Keyboard,Accessories,4,79.59,Cancelled,,West
+ORD-1290,CUST-208,,Female,12-09-2023,Mouse,Accessories,3,55.78,Completed,PAYPAL,West
+ORD-1154,CUST-208,Ko Htet,F,2023-06-28,Webcam,Accessories,2,95.91,Returned,PAYPAL,South
+ORD-1057,CUST-237,Ko Htet,,04-05-2023,Monitor,Electronics,4,397.82,Pending,credit card,East 
+ORD-1211,CUST-114,Ko Htet,female,2023/08/08,Headphones,Audio,3,154.2,completed,paypal,north
+ORD-1024,CUST-243,Ma Thin,F,03/28/2023,Keyboard,Accessories,4,77.87,Pending,PAYPAL,East
+ORD-1017,CUST-107,Ko Zaw,F,2023-11-03,USB Hub,Accessories,1,43.37,Cancelled,PAYPAL,north
+ORD-1245,CUST-232,U Moe,male,20-07-2023,USB Hub,Accessories,3,36.84,pending,Debit Card,East 
+ORD-1066,CUST-247,Ma Aye,M,02/13/2023,Headphones,Audio,1,145.77,COMPLETED,paypal,East
+ORD-1229,CUST-235,U Moe,female,2023/04/20,Keyboard,Accessories,2,71.07,Completed,credit card,North
+ORD-1225,CUST-221,Daw Mya,Male,12/13/2023,Webcam,Accessories,1,96.92,Returned,PAYPAL,East
+ORD-1094,CUST-262,Daw Mya,F,2023/05/05,Laptop,Electronics,5,1006.11,Pending,paypal,north
+ORD-1462,CUST-170,U Kyaw,F,2023/06/29,Webcam,Accessories,3,93.51,Cancelled,PAYPAL,East 
+ORD-1284,CUST-148,Ma Aye,female,2023/05/18,Laptop,Electronics,5,995.99,Completed,PayPal,West
+ORD-1023,CUST-106,Ko Aung,MALE,2023/03/28,Keyboard,Accessories,4,81.67,pending,credit card,South
+ORD-1244,CUST-212,,Female,09/18/2023,Monitor,Electronics,5,408.35,pending,paypal,East
+ORD-1422,CUST-194,Daw Khin,F,2023-06-19,Monitor,Electronics,4,,Pending,paypal,North
+ORD-1375,CUST-272,Daw Khin,female,27-11-2023,Keyboard,Accessories,1,83.24,Pending,Cash,SOUTH
+ORD-1005,CUST-162,Ma Aye,Male,12-02-2023,Headphones,Audio,5,148.91,Pending,PAYPAL,North
+ORD-1116,CUST-168,Ma Thin,M,2023/12/11,USB Hub,Accessories,4,-39.0,completed,Cash,north
+ORD-1045,CUST-186,Ma Thin,Male,2023-10-22,Webcam,Accessories,3,98.56,COMPLETED,paypal,South
+ORD-1407,CUST-118,,FEMALE,2023-01-29,Laptop,Electronics,1,-999.0,completed,credit card,East
+ORD-1016,CUST-108,U Moe,Female,10/11/2023,Laptop,Electronics,4,996.6,completed,PAYPAL,
+ORD-1484,CUST-194,Ko Aung,M,2023/10/20,Monitor,Electronics,4,401.2,COMPLETED,credit card,North
+ORD-1370,CUST-120,U Moe,female,2023-11-19,Webcam,Accessories,2,87.9,Returned,PAYPAL,north
+ORD-1003,CUST-289,Daw Mya,Female,13-11-2023,Keyboard,Accessories,1,76.72,completed,Credit Card,West
+ORD-1274,CUST-238,U Win,MALE,2023-02-14,Laptop,Electronics,2,1008.33,pending,Credit Card,north
+ORD-1426,CUST-239,Daw Khin,F,2023/03/17,Phone,Electronics,4,,Cancelled,PayPal,West
+ORD-1060,CUST-120,U Win,F,03-11-2023,Mouse,Accessories,1,42.51,Pending,Debit Card,North
+ORD-1110,CUST-298,Ma Thin,,2023/09/08,Keyboard,Accessories,5,74.01,completed,PAYPAL,East 
+ORD-1329,CUST-223,U Win,FEMALE,2023-01-31,Mouse,Accessories,3,49.86,completed,credit card,
+ORD-1272,CUST-224,Ko Htet,FEMALE,2023/08/12,Mouse,Accessories,5,48.23,Cancelled,PayPal,East
+ORD-1029,CUST-239,,male,09-02-2023,Mouse,Accessories,1,50.32,Returned,Cash,north
+ORD-1280,CUST-162,Ma Aye,M,01/06/2023,Keyboard,Accessories,5,84.26,,Cash,
+ORD-1411,CUST-244,U Kyaw,female,31-10-2023,Mouse,Accessories,1,51.54,COMPLETED,PAYPAL,
+ORD-1026,CUST-283,U Win,male,03/16/2023,Keyboard,Accessories,3,-79.0,Returned,paypal,SOUTH
+ORD-1007,CUST-135,Ma Thin,MALE,11/21/2023,Laptop,Electronics,2,1000.8,completed,Credit Card,South
+ORD-1181,CUST-284,U Win,Male,2023-11-21,Webcam,Accessories,2,8900.0,Returned,Debit Card,West
+ORD-1472,CUST-213,,female,2023-10-08,Webcam,Accessories,2,8900.0,completed,Debit Card,East 
+ORD-1108,CUST-183,Daw Mya,Male,06/16/2023,Phone,Electronics,3,69900.0,Pending,PayPal,North
+ORD-1037,CUST-140,Ko Aung,female,2023-08-09,Mouse,Accessories,2,42.16,completed,credit card,West
+ORD-1157,CUST-198,Daw Su,F,05/02/2023,Webcam,Accessories,4,98.49,COMPLETED,PAYPAL,West
+ORD-1488,CUST-210,Daw Mya,female,2023/12/05,Mouse,Accessories,5,43.15,Cancelled,paypal,North
+ORD-1118,CUST-154,Daw Khin,Male,10/30/2023,USB Hub,Accessories,3,38.52,COMPLETED,Cash,East 
+ORD-1114,CUST-180,Ko Zaw,female,2023-06-30,Keyboard,Accessories,4,73.76,Returned,credit card,West
+ORD-1425,CUST-212,Daw Mya,,06/15/2023,Monitor,Electronics,4,401.31,pending,credit card,South
+ORD-1175,CUST-128,Ko Zaw,male,31-12-2023,USB Hub,Accessories,1,34.46,Completed,Debit Card,West
+ORD-1204,CUST-182,Ko Htet,MALE,29-11-2023,Laptop,Electronics,5,995.99,completed,Cash,West
+ORD-1369,CUST-230,Ko Htet,male,25-07-2023,Laptop,Electronics,2,998.04,Returned,paypal,West
+ORD-1144,CUST-230,Ko Aung,male,2023/09/11,Headphones,Audio,4,153.78,Completed,Credit Card,
+ORD-1194,CUST-150,Ko Htet,FEMALE,26-05-2023,Mouse,Accessories,2,,Returned,credit card,north
+ORD-1383,CUST-110,Ko Aung,M,06-04-2023,Webcam,Accessories,2,80.72,pending,PAYPAL,north
+ORD-1395,CUST-283,Daw Khin,male,03-07-2023,Phone,Electronics,4,695.45,Completed,Cash,West
+ORD-1376,CUST-160,Daw Khin,female,03/07/2023,Mouse,Accessories,5,51.75,completed,paypal,West
+ORD-1486,CUST-241,,F,07/04/2023,Laptop,Electronics,1,993.5,COMPLETED,PayPal,East
+ORD-1238,CUST-282,U Win,male,11/27/2023,Monitor,Electronics,5,390.32,Pending,Debit Card,SOUTH
+ORD-1464,CUST-100,Ko Aung,F,2023/10/23,Keyboard,Accessories,2,88.34,Returned,credit card,SOUTH
+ORD-1141,CUST-192,Ko Zaw,Male,05/21/2023,Headphones,Audio,2,142.05,COMPLETED,Cash,SOUTH
+ORD-1406,CUST-292,Daw Khin,MALE,2023-10-01,Mouse,Accessories,3,39.57,completed,Cash,East
+ORD-1067,CUST-149,Daw Khin,Male,2023/05/08,Keyboard,Accessories,3,88.26,Completed,credit card,West
+ORD-1231,CUST-208,U Win,F,2023/11/12,Mouse,Accessories,4,49.09,Pending,,West
+ORD-1168,CUST-274,,female,2023-09-21,Webcam,Accessories,5,,pending,Debit Card,East
+ORD-1188,CUST-127,Ko Aung,Male,2023/08/23,Monitor,Electronics,4,390.44,Pending,Debit Card,East
+ORD-1237,CUST-151,,female,03/13/2023,Phone,Electronics,2,704.78,Cancelled,Credit Card,North
+ORD-1390,CUST-233,Ko Zaw,male,12-03-2023,Laptop,Electronics,3,1004.61,pending,Credit Card,SOUTH
+ORD-1311,CUST-146,Daw Mya,F,09-06-2023,Mouse,Accessories,3,58.77,pending,Credit Card,West
+ORD-1193,CUST-255,U Win,female,11-09-2023,Webcam,Accessories,1,87.35,Cancelled,credit card,West
+ORD-1081,CUST-262,Daw Khin,MALE,13-01-2023,USB Hub,Accessories,2,35.04,Cancelled,Credit Card,West
+ORD-1109,CUST-296,Ma Thin,F,28-02-2023,Webcam,Accessories,3,81.89,pending,paypal,East
+ORD-1262,CUST-115,U Moe,Female,01-08-2023,Monitor,Electronics,3,405.63,Completed,credit card,West
+ORD-1145,CUST-226,,male,2023/02/27,Keyboard,Accessories,1,80.13,Completed,credit card,East 
+ORD-1092,CUST-118,Ko Htet,Female,2023/06/25,Keyboard,Accessories,3,-79.0,COMPLETED,Debit Card,SOUTH
+ORD-1152,CUST-140,Ko Htet,M,2023-06-02,Laptop,Electronics,1,993.25,pending,PayPal,East 
+ORD-1352,CUST-175,Ma Thin,F,03/03/2023,Webcam,Accessories,3,98.06,completed,Cash,SOUTH
+ORD-1410,CUST-259,Ma Aye,Female,03/30/2023,Laptop,Electronics,2,1001.78,Pending,PayPal,South
+ORD-1277,CUST-246,Ma Nwe,FEMALE,2023/12/08,Keyboard,Accessories,2,86.48,Returned,Cash,West
+ORD-1083,CUST-141,Daw Mya,male,02/13/2023,USB Hub,Accessories,3,35.09,Returned,paypal,West
+ORD-1103,CUST-263,U Moe,male,07/19/2023,USB Hub,Accessories,2,40.29,pending,Credit Card,East 
+ORD-1165,CUST-274,U Moe,MALE,28-03-2023,USB Hub,Accessories,3,31.84,COMPLETED,PAYPAL,SOUTH
+ORD-1163,CUST-241,U Win,FEMALE,19-10-2023,Webcam,Accessories,1,79.12,completed,Credit Card,north
+ORD-1199,CUST-238,Ma Nwe,F,08/24/2023,Laptop,Electronics,2,999.48,Cancelled,PAYPAL,North
+ORD-1250,CUST-116,U Win,M,2023-09-28,USB Hub,Accessories,2,42.71,Cancelled,credit card,East 
+ORD-1074,CUST-174,Ma Aye,female,20-02-2023,Mouse,Accessories,4,52.45,COMPLETED,PAYPAL,East 
+ORD-1468,CUST-263,Daw Su,Male,13-06-2023,Headphones,Audio,1,151.39,Cancelled,paypal,north
+ORD-1234,CUST-293,Ko Zaw,male,2023/03/05,Monitor,Electronics,5,392.17,Cancelled,Cash,East 
+ORD-1498,CUST-270,Ko Aung,Male,15-07-2023,Keyboard,Accessories,3,78.58,Cancelled,Cash,north
+ORD-1119,CUST-245,Ma Nwe,Female,10-03-2023,Monitor,Electronics,4,399.26,COMPLETED,PayPal,South
+ORD-1291,CUST-205,,male,07/04/2023,Monitor,Electronics,1,404.83,COMPLETED,credit card,North
+ORD-1432,CUST-102,Daw Su,Female,06/15/2023,Webcam,Accessories,1,89.11,completed,credit card,north
+ORD-1455,CUST-229,U Kyaw,F,05/16/2023,USB Hub,Accessories,1,48.81,COMPLETED,Credit Card,SOUTH
+ORD-1367,CUST-140,Ma Nwe,Male,2023-02-01,Phone,Electronics,2,707.33,pending,Debit Card,North
+ORD-1416,CUST-229,U Win,female,2023-10-16,Mouse,Accessories,2,,Returned,Debit Card,West
+ORD-1247,CUST-130,U Moe,F,03-05-2023,Webcam,Accessories,3,,Completed,Credit Card,West
+ORD-1265,CUST-108,Ko Htet,Female,20-03-2023,Monitor,Electronics,3,402.53,completed,Credit Card,West
+ORD-1268,CUST-231,U Kyaw,FEMALE,2023/03/21,Keyboard,Accessories,2,79.68,Completed,PAYPAL,North
+ORD-1312,CUST-171,,male,11-10-2023,Phone,Electronics,1,696.81,Completed,credit card,West
+ORD-1398,CUST-167,Ko Zaw,,18-07-2023,Webcam,Accessories,5,84.01,completed,PayPal,north
+ORD-1322,CUST-103,Ko Htet,MALE,05-10-2023,Laptop,Electronics,5,1002.91,Completed,PayPal,north
+ORD-1036,CUST-294,U Win,FEMALE,18-06-2023,Phone,Electronics,4,707.02,COMPLETED,credit card,north
+ORD-1196,CUST-195,Ma Aye,male,2023-09-06,Mouse,Accessories,4,55.64,,Credit Card,East
+ORD-1139,CUST-249,Daw Su,FEMALE,2023/02/12,Phone,Electronics,5,690.9,Returned,credit card,north
+ORD-1388,CUST-249,Ko Aung,male,09-10-2023,Headphones,Audio,5,148.0,Cancelled,Credit Card,East
+ORD-1438,CUST-134,Ma Aye,F,2023-11-11,Monitor,Electronics,4,406.65,Returned,Credit Card,South
+ORD-1301,CUST-286,Ma Aye,Male,2023/01/19,Keyboard,Accessories,5,84.88,pending,PayPal,West
+ORD-1418,CUST-133,Ma Thin,male,31-03-2023,Webcam,Accessories,5,93.37,pending,,North
+ORD-1059,CUST-196,Daw Mya,F,07/13/2023,Phone,Electronics,2,694.9,COMPLETED,PAYPAL,East
+ORD-1469,CUST-167,Daw Khin,female,02/23/2023,USB Hub,Accessories,3,31.96,,PayPal,SOUTH
+ORD-1248,CUST-163,U Moe,MALE,02/27/2023,Headphones,Audio,2,155.26,Completed,Debit Card,north
+ORD-1111,CUST-114,Ma Nwe,female,24-11-2023,Headphones,Audio,2,152.22,Completed,PayPal,
+ORD-1089,CUST-279,Ko Htet,MALE,20-08-2023,Keyboard,Accessories,4,77.3,Returned,Debit Card,West
+ORD-1461,CUST-208,U Kyaw,female,2023-09-10,Laptop,Electronics,2,1000.67,Pending,PayPal,SOUTH
+ORD-1266,CUST-184,U Moe,Female,06/08/2023,Headphones,Audio,4,147.88,COMPLETED,paypal,West
+ORD-1374,CUST-117,Ma Aye,,02/03/2023,Laptop,Electronics,5,1006.83,Returned,credit card,SOUTH
+ORD-1150,CUST-139,Daw Mya,FEMALE,08/06/2023,USB Hub,Accessories,5,48.37,,Debit Card,SOUTH
+ORD-1396,CUST-180,U Kyaw,M,06-09-2023,USB Hub,Accessories,1,35.92,completed,Credit Card,West
+ORD-1038,CUST-278,Ko Zaw,MALE,2023-11-30,Headphones,Audio,1,145.91,Cancelled,Cash,West
+ORD-1325,CUST-160,Daw Su,MALE,03-12-2023,Headphones,Audio,4,144.87,pending,Credit Card,West
+ORD-1198,CUST-141,Daw Khin,MALE,01/24/2023,USB Hub,Accessories,2,33.87,Pending,PAYPAL,East
+ORD-1302,CUST-186,U Kyaw,MALE,02-12-2023,Phone,Electronics,1,691.22,Completed,credit card,north
+ORD-1146,CUST-123,Daw Mya,Male,2023-05-18,Phone,Electronics,2,700.23,COMPLETED,PAYPAL,north
+ORD-1408,CUST-102,Daw Su,female,2023/04/23,Phone,Electronics,5,700.54,Completed,PAYPAL,North
+ORD-1147,CUST-293,Daw Su,Female,2023/07/07,Webcam,Accessories,5,81.44,Cancelled,PayPal,West
+ORD-1317,CUST-240,Ma Thin,MALE,2023-09-10,Headphones,Audio,2,151.57,Returned,Cash,
+ORD-1296,CUST-267,U Moe,female,2023/04/27,Monitor,Electronics,2,394.12,pending,Cash,north
+ORD-1123,CUST-267,Daw Mya,male,2023/08/03,Headphones,Audio,2,148.16,COMPLETED,Credit Card,north
+ORD-1382,CUST-252,Daw Su,,30-03-2023,Keyboard,Accessories,2,80.03,pending,PAYPAL,north
+ORD-1096,CUST-236,Ko Zaw,Male,14-10-2023,Keyboard,Accessories,3,88.56,pending,Cash,East
+ORD-1143,CUST-135,Daw Khin,F,2023/08/23,Webcam,Accessories,5,80.86,completed,Debit Card,West
+ORD-1239,CUST-179,U Moe,female,2023/10/11,Laptop,Electronics,3,1002.57,pending,credit card,West
+ORD-1321,CUST-238,U Kyaw,,07/29/2023,Mouse,Accessories,2,54.58,Completed,paypal,South
+ORD-1097,CUST-286,U Win,male,08/25/2023,USB Hub,Accessories,3,36.96,pending,Cash,East
+ORD-1471,CUST-289,U Moe,FEMALE,2023/03/24,Mouse,Accessories,5,41.2,Pending,credit card,West
+ORD-1122,CUST-154,Ko Aung,F,2023/03/14,USB Hub,Accessories,5,46.34,Pending,paypal,West
+ORD-1183,CUST-167,Ko Zaw,FEMALE,2023/05/23,USB Hub,Accessories,4,34.11,Returned,credit card,North
+ORD-1202,CUST-100,U Kyaw,male,08/08/2023,Keyboard,Accessories,3,,pending,Credit Card,SOUTH
+ORD-1246,CUST-215,Ma Nwe,male,2023-01-28,Headphones,Audio,2,157.76,,credit card,East 
+ORD-1316,CUST-213,Ko Aung,M,2023/07/08,Monitor,Electronics,4,395.9,Completed,Credit Card,East 
+ORD-1340,CUST-216,U Win,,02-05-2023,Webcam,Accessories,3,91.05,Completed,Cash,North
+ORD-1364,CUST-222,Ma Nwe,MALE,05/08/2023,Headphones,Audio,4,150.23,completed,PAYPAL,SOUTH
+ORD-1310,CUST-208,Ma Nwe,FEMALE,2023-08-27,Mouse,Accessories,3,49.52,COMPLETED,paypal,North
+ORD-1412,CUST-125,Ma Nwe,MALE,24-12-2023,Laptop,Electronics,1,1008.13,COMPLETED,credit card,West
+ORD-1496,CUST-274,Ma Nwe,F,2023/11/25,USB Hub,Accessories,4,43.28,Returned,PAYPAL,West
+ORD-1125,CUST-201,U Moe,female,06-04-2023,USB Hub,Accessories,5,37.03,completed,PayPal,South
+ORD-1489,CUST-132,Ma Nwe,MALE,09/03/2023,USB Hub,Accessories,5,35.34,pending,credit card,West
+ORD-1223,CUST-132,U Moe,FEMALE,12-03-2023,Laptop,Electronics,1,999.14,completed,PayPal,North
+ORD-1142,CUST-156,Daw Khin,Male,05/28/2023,Keyboard,Accessories,3,70.34,Cancelled,Debit Card,West
+ORD-1219,CUST-294,Ma Thin,F,09/02/2023,Phone,Electronics,1,695.21,Pending,Debit Card,
+ORD-1129,CUST-167,Ma Aye,MALE,08-09-2023,USB Hub,Accessories,5,34.5,pending,Cash,SOUTH
+ORD-1437,CUST-126,Ma Aye,F,2023/10/15,Mouse,Accessories,5,55.94,completed,PAYPAL,West
+ORD-1298,CUST-125,Ko Zaw,M,01/07/2023,Mouse,Accessories,3,49.56,pending,Debit Card,South
+ORD-1451,CUST-152,U Win,Male,06/13/2023,Mouse,Accessories,2,45.66,Cancelled,Cash,South
+ORD-1392,CUST-166,U Win,M,09/27/2023,Mouse,Accessories,5,47.65,COMPLETED,Debit Card,SOUTH
+ORD-1402,CUST-265,Ko Htet,MALE,2023/08/30,Phone,Electronics,1,,Completed,credit card,
+ORD-1368,CUST-114,Ko Htet,male,04/24/2023,Headphones,Audio,3,141.45,Returned,Cash,West
+ORD-1304,CUST-163,Ko Aung,Male,13-06-2023,Monitor,Electronics,2,39900.0,completed,Cash,North
+ORD-1294,CUST-113,Daw Khin,,2023-02-22,Webcam,Accessories,1,93.11,,,East
+ORD-1380,CUST-163,Ko Htet,M,22-07-2023,Keyboard,Accessories,1,7900.0,Returned,credit card,East
+ORD-1354,CUST-114,Daw Mya,FEMALE,2023/12/27,USB Hub,Accessories,2,29.7,COMPLETED,PayPal,South
+ORD-1112,CUST-158,U Moe,Female,2023/07/18,USB Hub,Accessories,2,3900.0,Cancelled,credit card,East
+ORD-1179,CUST-216,Ko Aung,female,2023/05/18,Laptop,Electronics,3,989.91,completed,credit card,South
+ORD-1318,CUST-125,Ma Aye,FEMALE,2023/04/11,Mouse,Accessories,5,53.7,COMPLETED,PAYPAL,
+ORD-1424,CUST-140,Daw Su,male,2023/06/24,Monitor,Electronics,3,394.8,completed,paypal,West
+ORD-1341,CUST-173,Daw Mya,Male,2023-06-11,USB Hub,Accessories,4,39.91,Returned,paypal,West
+ORD-1479,CUST-119,Ko Aung,MALE,08-04-2023,Keyboard,Accessories,1,79.51,Completed,Cash,North
+ORD-1373,CUST-252,Ko Htet,FEMALE,02/08/2023,Mouse,Accessories,2,40.3,Completed,Debit Card,East
+ORD-1233,CUST-238,Ko Htet,female,02/21/2023,Laptop,Electronics,2,,COMPLETED,Cash,North
+ORD-1119,CUST-245,Ma Nwe,Female,10-03-2023,Monitor,Electronics,4,399.26,COMPLETED,PayPal,South
+ORD-1322,CUST-103,Ko Htet,MALE,05-10-2023,Laptop,Electronics,5,1002.91,Completed,PayPal,north
+ORD-1164,CUST-102,Ma Nwe,FEMALE,2023/05/24,Keyboard,Accessories,4,80.33,completed,Cash,West
+ORD-1136,CUST-291,Ko Zaw,Female,2023/07/29,Mouse,Accessories,5,43.3,Completed,Cash,SOUTH
+ORD-1197,CUST-295,Ma Thin,FEMALE,2023-12-16,Phone,Electronics,5,690.76,Completed,PAYPAL,East
+ORD-1258,CUST-101,Daw Khin,Female,04/21/2023,USB Hub,Accessories,4,45.7,COMPLETED,Credit Card,East
+ORD-1232,CUST-154,Ko Aung,male,04/22/2023,Phone,Electronics,4,693.95,Pending,Debit Card,north
+ORD-1115,CUST-202,U Kyaw,F,11/13/2023,Phone,Electronics,2,692.48,Completed,Debit Card,north
+ORD-1120,CUST-283,U Kyaw,female,03-05-2023,USB Hub,Accessories,5,39.08,completed,credit card,East
+ORD-1361,CUST-114,Daw Su,female,03/31/2023,Keyboard,Accessories,5,81.99,pending,Debit Card,West
+ORD-1224,CUST-268,Ko Zaw,M,2023/03/10,Mouse,Accessories,5,50.09,Pending,,North
+ORD-1441,CUST-127,U Moe,F,19-12-2023,Laptop,Electronics,2,992.89,Completed,PAYPAL,East 
+ORD-1348,CUST-283,Daw Khin,MALE,27-08-2023,Keyboard,Accessories,5,74.49,completed,Debit Card,South
+ORD-1127,CUST-217,U Kyaw,male,2023-11-27,Keyboard,Accessories,5,70.47,Pending,Debit Card,SOUTH
+ORD-1285,CUST-124,,Female,2023-03-02,Phone,Electronics,2,69900.0,Completed,credit card,SOUTH
+ORD-1428,CUST-177,Ko Zaw,Female,2023-09-27,Monitor,Electronics,2,395.25,Completed,Credit Card,SOUTH
+ORD-1107,CUST-275,Ma Thin,Female,10/02/2023,Laptop,Electronics,1,1007.01,Cancelled,paypal,West
+ORD-1384,CUST-258,Ko Htet,F,2023-08-17,Phone,Electronics,1,708.99,completed,Credit Card,SOUTH
+ORD-1336,CUST-199,Ko Aung,F,09/16/2023,Mouse,Accessories,4,58.47,COMPLETED,PayPal,South
+ORD-1133,CUST-243,Daw Mya,Male,09/06/2023,Phone,Electronics,1,690.98,Cancelled,PayPal,North
+ORD-1377,CUST-203,,male,06/19/2023,Mouse,Accessories,1,49.18,Pending,PayPal,north
+ORD-1044,CUST-295,U Kyaw,F,2023/12/22,Monitor,Electronics,1,408.85,COMPLETED,Debit Card,South
+ORD-1481,CUST-138,Daw Khin,Female,04-10-2023,Phone,Electronics,3,695.85,Pending,Credit Card,West
+ORD-1065,CUST-192,Ma Thin,male,2023/10/02,Mouse,Accessories,2,55.13,Cancelled,Debit Card,East 
+ORD-1283,CUST-204,Daw Su,F,2023/03/06,USB Hub,Accessories,5,,completed,,West
+ORD-1085,CUST-190,U Win,F,25-06-2023,Phone,Electronics,1,691.71,Completed,Debit Card,SOUTH
+ORD-1242,CUST-266,Daw Su,F,2023-12-04,Phone,Electronics,3,695.67,Returned,PAYPAL,East 
+ORD-1186,CUST-145,Ma Thin,M,2023-01-02,Mouse,Accessories,4,53.07,Cancelled,Debit Card,South
+ORD-1399,CUST-201,Ma Nwe,male,14-01-2023,Mouse,Accessories,5,50.02,Pending,Debit Card,
+ORD-1159,CUST-252,Daw Su,M,2023/12/30,Laptop,Electronics,1,,COMPLETED,Cash,SOUTH
+ORD-1012,CUST-239,Daw Su,Male,02/14/2023,Mouse,Accessories,1,48.39,Completed,Debit Card,West
+ORD-1035,CUST-101,U Moe,male,14-11-2023,Laptop,Electronics,2,989.19,COMPLETED,PayPal,West
+ORD-1028,CUST-279,Ma Aye,Female,03-06-2023,Monitor,Electronics,3,391.91,Cancelled,credit card,
+ORD-1170,CUST-292,Ko Aung,female,2023-03-11,Laptop,Electronics,1,1000.35,Pending,Debit Card,North
+ORD-1142,CUST-156,Daw Khin,Male,05/28/2023,Keyboard,Accessories,3,70.34,Cancelled,Debit Card,West
+ORD-1415,CUST-154,U Kyaw,F,2023/10/18,USB Hub,Accessories,2,30.2,Pending,paypal,East 
+ORD-1353,CUST-155,Daw Khin,FEMALE,18-12-2023,USB Hub,Accessories,2,41.15,Completed,PayPal,East
+ORD-1221,CUST-296,Ma Thin,MALE,02/22/2023,Mouse,Accessories,2,40.53,Completed,PAYPAL,East
+ORD-1095,CUST-143,Ma Aye,female,10/10/2023,Laptop,Electronics,1,1002.71,Cancelled,PayPal,West
+ORD-1051,CUST-188,U Moe,MALE,2023-08-25,Webcam,Accessories,4,91.14,completed,Cash,SOUTH
+ORD-1240,CUST-202,U Kyaw,Male,08-11-2023,Webcam,Accessories,2,93.47,completed,paypal,East 
+ORD-1386,CUST-207,Ko Htet,male,11/12/2023,Headphones,Audio,1,155.47,,Cash,North
+ORD-1351,CUST-148,Daw Su,Female,26-08-2023,Keyboard,Accessories,4,85.02,COMPLETED,credit card,North
+ORD-1394,CUST-271,Ko Zaw,F,2023-07-15,USB Hub,Accessories,4,32.06,Cancelled,credit card,East 
+ORD-1178,CUST-140,U Moe,M,2023/03/14,Webcam,Accessories,1,88.73,COMPLETED,credit card,South
+ORD-1041,CUST-171,Ma Thin,M,13-04-2023,Phone,Electronics,2,692.98,completed,Debit Card,SOUTH
+ORD-1454,CUST-167,Ko Aung,Female,21-06-2023,USB Hub,Accessories,3,,COMPLETED,credit card,East 
+ORD-1403,CUST-176,U Kyaw,M,2023-10-27,Laptop,Electronics,5,1002.17,,Credit Card,South
+ORD-1206,CUST-104,Ko Htet,female,04-07-2023,Keyboard,Accessories,5,73.73,COMPLETED,Cash,West
+ORD-1282,CUST-221,Ko Htet,female,05/13/2023,USB Hub,Accessories,4,37.75,Cancelled,paypal,North
+ORD-1358,CUST-115,Ma Nwe,male,02-07-2023,Laptop,Electronics,5,1007.98,completed,PAYPAL,
+ORD-1254,CUST-241,U Win,F,2023/10/07,Monitor,Electronics,1,407.95,completed,credit card,north
+ORD-1429,CUST-256,Ma Thin,female,07-02-2023,Webcam,Accessories,2,88.97,Pending,paypal,East 
+ORD-1004,CUST-170,Daw Su,FEMALE,2023/05/07,Headphones,Audio,5,155.41,pending,Debit Card,West
+ORD-1256,CUST-250,Ma Nwe,Male,02/07/2023,Phone,Electronics,5,690.54,Pending,paypal,West
+ORD-1467,CUST-133,Ko Zaw,Female,18-01-2023,Phone,Electronics,4,692.41,COMPLETED,,East 
+ORD-1100,CUST-218,,M,10-08-2023,Webcam,Accessories,1,91.83,COMPLETED,Credit Card,north
+ORD-1226,CUST-240,Ko Htet,male,2023/09/29,Webcam,Accessories,4,95.2,completed,PAYPAL,SOUTH
+ORD-1444,CUST-139,Ko Htet,MALE,2023-07-20,Laptop,Electronics,4,1008.78,Completed,Credit Card,West
+ORD-1213,CUST-245,Ma Thin,FEMALE,20-04-2023,Phone,Electronics,3,701.71,Completed,credit card,West
+ORD-1439,CUST-167,Daw Su,F,2023/04/25,Phone,Electronics,1,704.28,COMPLETED,PayPal,
+ORD-1171,CUST-168,,FEMALE,2023-07-30,Webcam,Accessories,4,80.05,Cancelled,PAYPAL,East
+ORD-1098,CUST-162,,MALE,2023/07/27,Phone,Electronics,2,691.44,Pending,Cash,West
+ORD-1292,CUST-219,U Win,Female,10/18/2023,USB Hub,Accessories,4,34.74,Completed,Credit Card,SOUTH
+ORD-1215,CUST-121,U Win,MALE,2023/09/23,USB Hub,Accessories,1,32.02,COMPLETED,paypal,South
+ORD-1061,CUST-241,Ko Zaw,Male,2023/07/25,Mouse,Accessories,3,49.79,completed,paypal,East 
+ORD-1047,CUST-123,Daw Su,MALE,21-07-2023,Webcam,Accessories,5,,COMPLETED,PAYPAL,North
+ORD-1032,CUST-214,Ma Nwe,MALE,11-04-2023,Monitor,Electronics,2,393.82,Pending,Debit Card,West
+ORD-1267,CUST-118,Daw Mya,female,2023-04-15,USB Hub,Accessories,4,43.97,Cancelled,PAYPAL,SOUTH
+ORD-1327,CUST-204,Ma Thin,Female,2023-09-29,Phone,Electronics,5,689.84,completed,,North
+ORD-1200,CUST-299,Ko Htet,male,22-03-2023,Laptop,Electronics,1,995.21,completed,paypal,North
+ORD-1465,CUST-185,U Win,MALE,12/18/2023,Phone,Electronics,5,,Cancelled,credit card,West
+ORD-1027,CUST-266,U Win,Female,11-08-2023,Webcam,Accessories,3,84.87,Cancelled,credit card,SOUTH
+ORD-1405,CUST-180,U Moe,Male,12/03/2023,Monitor,Electronics,5,400.27,Returned,Cash,North
+ORD-1230,CUST-255,Ko Zaw,M,2023-03-19,Phone,Electronics,1,695.87,Cancelled,credit card,West
+ORD-1260,CUST-281,U Kyaw,Male,2023/07/23,USB Hub,Accessories,4,44.33,Returned,PAYPAL,north
+ORD-1378,CUST-130,Daw Mya,,08/25/2023,USB Hub,Accessories,1,33.02,Pending,paypal,East
+ORD-1288,CUST-210,Daw Su,Male,02-02-2023,Webcam,Accessories,3,,completed,paypal,West
+ORD-1162,CUST-164,Ko Aung,female,2023-04-16,Webcam,Accessories,3,85.18,pending,PAYPAL,East 
+ORD-1391,CUST-180,Daw Khin,MALE,2023-11-26,Headphones,Audio,1,142.64,pending,paypal,West
+ORD-1442,CUST-290,Ma Thin,F,2023/04/01,USB Hub,Accessories,1,30.47,Cancelled,Credit Card,West
+ORD-1138,CUST-209,Ma Thin,Female,16-08-2023,Monitor,Electronics,5,398.07,Returned,Credit Card,East
+ORD-1062,CUST-175,U Win,male,21-12-2023,Webcam,Accessories,2,89.62,completed,paypal,West
+ORD-1135,CUST-167,U Kyaw,Female,2023/09/16,Keyboard,Accessories,5,84.38,COMPLETED,paypal,South
+ORD-1128,CUST-136,,,2023/03/30,Mouse,Accessories,4,51.17,completed,credit card,north
+ORD-1499,CUST-126,Daw Mya,M,08/17/2023,Keyboard,Accessories,5,79.77,pending,credit card,South
+ORD-1008,CUST-288,Daw Khin,MALE,19-07-2023,Headphones,Audio,1,156.48,Pending,paypal,north
+ORD-1326,CUST-142,U Moe,F,06/07/2023,USB Hub,Accessories,4,-39.0,,Debit Card,SOUTH
+ORD-1485,CUST-249,Ma Nwe,Female,09/09/2023,Mouse,Accessories,2,43.93,COMPLETED,PayPal,north
+ORD-1064,CUST-258,U Kyaw,M,2023/07/04,Webcam,Accessories,3,95.49,COMPLETED,PAYPAL,SOUTH
+ORD-1300,CUST-203,Daw Mya,Male,03/18/2023,Mouse,Accessories,5,,Returned,Credit Card,East
+ORD-1014,CUST-251,Ma Aye,,20-09-2023,Phone,Electronics,4,702.0,COMPLETED,Debit Card,East 
+ORD-1156,CUST-116,Ma Nwe,Female,2023-03-02,Laptop,Electronics,4,1005.14,Pending,Credit Card,SOUTH
+ORD-1040,CUST-187,Ko Aung,M,2023-11-05,Laptop,Electronics,4,994.0,COMPLETED,paypal,West
+ORD-1379,CUST-245,Ko Htet,M,21-10-2023,Phone,Electronics,1,704.81,COMPLETED,credit card,South
+ORD-1479,CUST-119,Ko Aung,MALE,08-04-2023,Keyboard,Accessories,1,79.51,Completed,Cash,North
+ORD-1420,CUST-117,Ko Aung,Male,11/05/2023,Phone,Electronics,3,691.62,Pending,Credit Card,West
+ORD-1216,CUST-287,Daw Su,F,01/05/2023,Mouse,Accessories,1,47.84,Cancelled,credit card,West
+ORD-1409,CUST-217,Ko Htet,Male,18-07-2023,Keyboard,Accessories,4,84.34,Cancelled,credit card,West
+ORD-1279,CUST-221,Ma Thin,female,12/29/2023,USB Hub,Accessories,1,46.02,Cancelled,paypal,West
+ORD-1453,CUST-262,U Win,FEMALE,2023/12/10,Mouse,Accessories,4,49.31,Pending,Debit Card,East
+ORD-1449,CUST-283,Ma Nwe,M,09/12/2023,Laptop,Electronics,1,999.18,completed,PAYPAL,West
+ORD-1337,CUST-167,U Win,Female,07/21/2023,USB Hub,Accessories,3,38.95,Returned,credit card,
+ORD-1236,CUST-276,U Kyaw,F,08-08-2023,Monitor,Electronics,1,395.77,Cancelled,Credit Card,West
+ORD-1207,CUST-128,Daw Su,Female,2023/07/10,Keyboard,Accessories,4,72.95,Cancelled,paypal,East
+ORD-1212,CUST-161,Ko Zaw,FEMALE,12/27/2023,USB Hub,Accessories,2,47.48,Cancelled,,SOUTH
+ORD-1295,CUST-272,Daw Su,MALE,2023/12/12,Monitor,Electronics,5,389.11,COMPLETED,,North
+ORD-1476,CUST-243,Ko Aung,F,12/01/2023,USB Hub,Accessories,3,43.72,Cancelled,Credit Card,North
+ORD-1251,CUST-186,Daw Mya,M,2023-01-07,USB Hub,Accessories,4,41.92,Returned,credit card,West
+ORD-1168,CUST-274,,female,2023-09-21,Webcam,Accessories,5,,pending,Debit Card,East
+ORD-1477,CUST-102,Ma Nwe,male,08/11/2023,Headphones,Audio,4,141.76,Returned,PayPal,
+ORD-1303,CUST-127,U Kyaw,Male,06/14/2023,Keyboard,Accessories,1,80.93,Pending,credit card,East 
+ORD-1350,CUST-139,Daw Khin,FEMALE,17-04-2023,Webcam,Accessories,5,91.75,pending,credit card,North
+ORD-1269,CUST-160,Ko Zaw,male,2023/07/20,Monitor,Electronics,3,405.17,completed,Cash,East
+ORD-1201,CUST-235,Ma Aye,FEMALE,2023-01-01,Monitor,Electronics,1,,Completed,PayPal,SOUTH
+ORD-1161,CUST-235,U Moe,Male,2023-03-13,Mouse,Accessories,4,42.61,Cancelled,PayPal,north
+ORD-1043,CUST-155,Ma Nwe,FEMALE,13-06-2023,Monitor,Electronics,1,400.44,Cancelled,Cash,South
+ORD-1217,CUST-224,U Kyaw,Male,2023-06-25,Monitor,Electronics,4,394.49,completed,paypal,north
+ORD-1401,CUST-271,Daw Su,,05/24/2023,USB Hub,Accessories,1,39.05,,Credit Card,SOUTH
+ORD-1190,CUST-176,U Moe,female,2023-02-02,USB Hub,Accessories,5,3900.0,pending,Debit Card,East 
+ORD-1309,CUST-135,Ma Nwe,MALE,07/25/2023,USB Hub,Accessories,2,48.49,Returned,PAYPAL,West
+ORD-1259,CUST-118,Ko Htet,female,2023-01-31,Keyboard,Accessories,5,69.75,Cancelled,Cash,East
+ORD-1105,CUST-242,U Win,Female,2023-12-27,Keyboard,Accessories,5,73.32,COMPLETED,credit card,East
+ORD-1053,CUST-167,U Win,MALE,2023-05-30,Keyboard,Accessories,5,82.56,Cancelled,credit card,north
+ORD-1389,CUST-244,Daw Mya,Male,14-02-2023,Phone,Electronics,4,695.89,COMPLETED,paypal,North
+ORD-1001,CUST-128,U Win,F,2023/12/15,Webcam,Accessories,3,79.87,completed,Cash,West
+ORD-1460,CUST-262,U Kyaw,F,2023-03-27,Mouse,Accessories,1,52.48,Completed,credit card,SOUTH
+ORD-1485,CUST-249,Ma Nwe,Female,09/09/2023,Mouse,Accessories,2,43.93,COMPLETED,PayPal,north
+ORD-1049,CUST-124,U Kyaw,male,10/07/2023,Mouse,Accessories,3,,Pending,PayPal,West
+ORD-1419,CUST-189,Daw Khin,Male,02/16/2023,USB Hub,Accessories,3,46.22,completed,Cash,SOUTH
+ORD-1080,CUST-216,U Kyaw,F,09/14/2023,USB Hub,Accessories,2,45.48,completed,,north
+ORD-1205,CUST-225,,Female,05/21/2023,Laptop,Electronics,4,1005.38,pending,credit card,north
+ORD-1034,CUST-171,U Moe,Female,22-07-2023,Monitor,Electronics,1,394.08,completed,credit card,West
+ORD-1430,CUST-267,Daw Su,FEMALE,06-12-2023,USB Hub,Accessories,3,38.98,COMPLETED,credit card,SOUTH
+ORD-1263,CUST-158,U Kyaw,Male,07/25/2023,Laptop,Electronics,4,1005.18,Returned,credit card,West
+ORD-1427,CUST-280,Ma Aye,female,2023-03-14,Headphones,Audio,5,145.55,Pending,Debit Card,North
+ORD-1493,CUST-110,U Win,F,01-03-2023,Monitor,Electronics,1,408.6,COMPLETED,paypal,north
+ORD-1366,CUST-235,Ma Nwe,Male,03/13/2023,Headphones,Audio,4,158.93,,PAYPAL,north
+ORD-1091,CUST-265,Daw Su,F,12/30/2023,Keyboard,Accessories,3,88.03,Completed,PAYPAL,SOUTH
+ORD-1339,CUST-300,Ko Zaw,female,2023-12-06,Phone,Electronics,3,,Cancelled,PAYPAL,North
+ORD-1495,CUST-153,Ma Aye,male,05-12-2023,Webcam,Accessories,4,84.81,Returned,PayPal,West
+ORD-1052,CUST-254,Daw Su,MALE,18-04-2023,Laptop,Electronics,5,1001.73,COMPLETED,credit card,West
+ORD-1345,CUST-300,Daw Mya,F,04/14/2023,Headphones,Audio,2,146.03,Completed,paypal,West
+ORD-1264,CUST-117,Ma Nwe,,2023/10/02,USB Hub,Accessories,5,,Cancelled,paypal,north
+ORD-1241,CUST-271,Ma Aye,Male,12/20/2023,USB Hub,Accessories,5,47.13,completed,,East 
+ORD-1013,CUST-122,Ma Nwe,M,2023/08/18,Headphones,Audio,1,,,credit card,SOUTH
+ORD-1315,CUST-119,U Moe,FEMALE,11/15/2023,Keyboard,Accessories,1,7900.0,Pending,credit card,West
+ORD-1088,CUST-168,Daw Mya,M,2023/08/13,Phone,Electronics,2,703.85,Completed,PayPal,East 
+ORD-1387,CUST-268,U Moe,MALE,01-06-2023,Mouse,Accessories,2,58.45,Pending,PAYPAL,East 
+ORD-1273,CUST-154,U Kyaw,male,05/03/2023,Mouse,Accessories,4,,completed,paypal,South
+ORD-1166,CUST-284,Ko Htet,F,27-12-2023,Keyboard,Accessories,1,69.61,completed,Cash,West
+ORD-1328,CUST-224,U Kyaw,Female,03-08-2023,Laptop,Electronics,3,999.31,Completed,PAYPAL,West
+ORD-1305,CUST-149,Ma Nwe,MALE,2023/02/09,Phone,Electronics,5,693.84,pending,PayPal,South
+ORD-1134,CUST-237,Ma Nwe,male,2023-07-16,Mouse,Accessories,1,56.06,COMPLETED,Cash,East 
+ORD-1306,CUST-148,Ma Nwe,M,2023/03/03,Headphones,Audio,5,147.58,COMPLETED,Debit Card,West
+ORD-1067,CUST-149,Daw Khin,Male,2023/05/08,Keyboard,Accessories,3,88.26,Completed,credit card,West
+ORD-1319,CUST-112,Daw Su,male,2023-10-07,Laptop,Electronics,2,989.89,Cancelled,Debit Card,East
+ORD-1243,CUST-195,U Win,FEMALE,2023/04/16,Webcam,Accessories,5,81.83,,Cash,West
+ORD-1054,CUST-111,Daw Khin,FEMALE,2023-02-05,Monitor,Electronics,4,402.18,COMPLETED,Credit Card,West
+ORD-1363,CUST-249,U Win,M,2023/10/12,Phone,Electronics,3,698.98,Cancelled,paypal,East 
+ORD-1050,CUST-191,Ko Aung,male,10/09/2023,Laptop,Electronics,3,994.72,Pending,Debit Card,SOUTH
+ORD-1480,CUST-276,Daw Khin,FEMALE,2023/10/11,Headphones,Audio,5,142.46,Cancelled,credit card,north
+ORD-1174,CUST-187,Ma Nwe,Female,03/09/2023,Headphones,Audio,5,148.71,COMPLETED,Credit Card,South
+ORD-1445,CUST-169,Daw Su,,10/18/2023,Keyboard,Accessories,3,71.38,Cancelled,PayPal,East
+ORD-1189,CUST-260,Ko Zaw,Female,24-12-2023,Keyboard,Accessories,1,69.85,completed,PayPal,South
+ORD-1289,CUST-190,Ko Aung,Female,2023/10/23,Keyboard,Accessories,2,7900.0,completed,paypal,SOUTH
+ORD-1463,CUST-111,Daw Su,female,2023-02-21,Phone,Electronics,1,689.53,Returned,paypal,East 
+ORD-1187,CUST-229,Ma Aye,M,2023/02/17,Webcam,Accessories,4,95.67,Pending,Credit Card,north
+ORD-1475,CUST-209,Daw Mya,male,12/27/2023,Keyboard,Accessories,5,87.41,pending,credit card,
+ORD-1169,CUST-237,U Kyaw,FEMALE,2023-12-14,USB Hub,Accessories,1,43.43,COMPLETED,credit card,East
+ORD-1058,CUST-131,,M,2023/03/20,Monitor,Electronics,3,403.65,COMPLETED,Credit Card,West
+ORD-1474,CUST-280,U Kyaw,,2023-11-11,USB Hub,Accessories,4,37.21,Cancelled,Cash,North
+ORD-1048,CUST-197,Daw Mya,M,10/16/2023,Keyboard,Accessories,1,69.98,,paypal,North
+ORD-1344,CUST-287,Daw Mya,MALE,05/20/2023,Headphones,Audio,2,147.52,completed,credit card,South
+ORD-1235,CUST-286,Daw Mya,MALE,16-07-2023,Webcam,Accessories,2,84.66,Cancelled,Debit Card,north
+ORD-1252,CUST-105,Ma Nwe,M,06/12/2023,Webcam,Accessories,3,86.24,,Credit Card,north
+ORD-1021,CUST-229,U Win,Male,2023-10-14,Monitor,Electronics,2,408.95,completed,Credit Card,East 
+ORD-1313,CUST-218,Daw Mya,Female,07/08/2023,Keyboard,Accessories,2,81.71,,credit card,South
+ORD-1459,CUST-123,U Kyaw,Female,2023/08/13,Headphones,Audio,5,155.31,completed,Credit Card,SOUTH
+ORD-1160,CUST-219,Daw Su,MALE,08/08/2023,Monitor,Electronics,5,405.59,COMPLETED,paypal,north
+ORD-1276,CUST-285,U Moe,FEMALE,11/08/2023,Phone,Electronics,3,694.0,Returned,credit card,
+ORD-1443,CUST-241,Ma Aye,female,2023-12-26,Webcam,Accessories,4,94.29,COMPLETED,Debit Card,West
+ORD-1191,CUST-263,U Win,Female,07/23/2023,Monitor,Electronics,2,406.24,Cancelled,credit card,north
+ORD-1385,CUST-120,U Win,M,2023/01/18,Keyboard,Accessories,2,79.51,Cancelled,Debit Card,West
+ORD-1293,CUST-286,Ko Zaw,Male,22-03-2023,Monitor,Electronics,3,402.92,Pending,Cash,South
+ORD-1413,CUST-118,Daw Su,M,10/30/2023,Headphones,Audio,5,155.09,COMPLETED,,South
+ORD-1491,CUST-178,Daw Khin,Male,23-11-2023,USB Hub,Accessories,4,34.47,Pending,credit card,East
+ORD-1343,CUST-278,U Moe,MALE,17-06-2023,Laptop,Electronics,5,995.13,Completed,Cash,SOUTH
+ORD-1257,CUST-156,Ma Thin,Male,02/04/2023,Mouse,Accessories,2,41.02,Completed,Credit Card,South
+ORD-1308,CUST-214,Ma Nwe,M,2023-09-22,Keyboard,Accessories,4,82.29,pending,PAYPAL,West
+ORD-1149,CUST-128,Daw Mya,FEMALE,2023/08/14,Monitor,Electronics,1,406.36,completed,Debit Card,East
+ORD-1130,CUST-135,Ma Aye,FEMALE,06-04-2023,Keyboard,Accessories,3,79.97,pending,PayPal,SOUTH
+ORD-1151,CUST-260,Ko Htet,M,2023-12-01,Webcam,Accessories,4,86.03,pending,Debit Card,East 
+ORD-1359,CUST-291,Daw Su,Male,2023/01/26,Phone,Electronics,2,704.26,Completed,Cash,SOUTH
+ORD-1099,CUST-141,U Moe,,2023/04/06,USB Hub,Accessories,1,38.09,Cancelled,Credit Card,South
+ORD-1372,CUST-117,Ko Aung,F,2023-05-13,USB Hub,Accessories,4,35.39,COMPLETED,Credit Card,West
+ORD-1087,CUST-271,Ma Nwe,FEMALE,28-06-2023,Monitor,Electronics,4,407.92,Completed,PayPal,West
+ORD-1458,CUST-113,U Moe,Male,01/01/2023,Keyboard,Accessories,5,83.17,Cancelled,Credit Card,SOUTH
+ORD-1330,CUST-154,Daw Khin,Female,2023/03/14,USB Hub,Accessories,3,44.07,pending,PayPal,West
+ORD-1214,CUST-120,Daw Khin,F,2023/03/09,Keyboard,Accessories,2,86.28,pending,Debit Card,
+ORD-1466,CUST-297,Ko Zaw,MALE,08/20/2023,USB Hub,Accessories,2,43.43,completed,PayPal,West
+ORD-1121,CUST-180,Daw Khin,F,04-04-2023,Webcam,Accessories,4,79.87,pending,PAYPAL,North
+ORD-1020,CUST-159,Ma Nwe,M,2023/02/13,USB Hub,Accessories,5,41.62,Returned,Credit Card,South
+ORD-1071,CUST-269,Ko Htet,Male,2023-07-24,Mouse,Accessories,2,46.32,Returned,Debit Card,North
+ORD-1106,CUST-156,Ma Thin,Male,2023/02/02,Headphones,Audio,3,145.57,pending,PAYPAL,
+ORD-1270,CUST-171,Daw Su,MALE,2023/11/29,Mouse,Accessories,4,55.7,pending,credit card,North
+ORD-1435,CUST-176,Daw Su,Female,2023/09/07,Phone,Electronics,4,,pending,credit card,north
+ORD-1102,CUST-169,Ma Aye,Male,2023/08/19,Webcam,Accessories,3,83.87,Pending,PayPal,East 
