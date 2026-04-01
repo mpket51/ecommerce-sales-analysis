@@ -69,3 +69,6 @@ End-to-end data analysis project covering data cleaning, SQL business analysis, 
 - `ecommerce_sql.sql` — SQL queries for business analysis
 
 - `fact_orders.csv` · `dim_customer.csv` · `dim_product.csv` · `dim_date.csv` · `dim_location.csv` · `dim_payment.csv`
+
+- ## Dashboard Preview
+![E-Commerce Sales Dashboard](dashboard_preview.png)
